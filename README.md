@@ -1,2 +1,0 @@
-# agit-project
-compro
