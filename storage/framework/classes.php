@@ -98,4 +98,7 @@
   'RainLab\\Translate\\Classes\\MLStaticPage' => 'plugins\\rainlab\\translate\\classes\\MLStaticPage.php',
   'RainLab\\Pages\\Classes\\MenuItem' => 'plugins\\rainlab\\pages\\classes\\MenuItem.php',
   'RainLab\\Pages\\Classes\\MenuItemReference' => 'plugins\\rainlab\\pages\\classes\\MenuItemReference.php',
+  'RainLab\\Translate\\FormWidgets\\MLRichEditor' => 'plugins\\rainlab\\translate\\formwidgets\\MLRichEditor.php',
+  'RainLab\\Pages\\FormWidgets\\MenuItems' => 'plugins\\rainlab\\pages\\formwidgets\\MenuItems.php',
+  'Rainlab\\Pages\\FormWidgets\\MenuItemSearch' => 'plugins\\rainlab\\pages\\formwidgets\\MenuItemSearch.php',
 );
