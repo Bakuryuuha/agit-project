@@ -1,0 +1,49 @@
+.form-control:focus {
+  border-color: #f79021;
+  box-shadow: none;
+}
+#layout-header {
+  background: #6c1a42;
+  color: #fff;
+  padding: .2rem 0;
+}
+#layout-header .nav-lang {
+  color: #fff;
+  font-size: .8rem;
+}
+#layout-header .form-inline .form-control {
+  background: no-repeat;
+  color: #fff;
+  border-radius: 2rem;
+  padding-left: 1.2rem;
+  font-size: .8rem;
+  min-width: 250px;
+}
+#layout-header .form-inline .btn {
+  position: absolute;
+  right: 1.25rem;
+  background: no-repeat;
+  color: #fff;
+  z-index: 2;
+  cursor: pointer;
+  border: none;
+  font-size: .8rem;
+  padding-bottom: .5rem;
+}
+#layout-header .form-inline .btn:hover {
+  color: #f79021;
+}
+#layout-header .form-inline .btn:focus {
+  box-shadow: none;
+}
+#layout-nav {
+  padding: 1.2rem 1rem;
+  background: #fff;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.jumbotron-img {
+  background: url('../images/jumbotron.png');
+}

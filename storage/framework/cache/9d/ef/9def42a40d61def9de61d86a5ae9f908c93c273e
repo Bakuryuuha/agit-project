@@ -1,0 +1,54 @@
+1513595112a:1:{s:9:"index.htm";a:7:{s:8:"fileName";s:9:"index.htm";s:7:"content";s:776:"[viewBag]
+title = "Agit - Your IT Solution"
+url = "/"
+layout = "master"
+is_hidden = 0
+navigation_hidden = 0
+==
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="/agit-project/themes/rainlab-bonjour/assets/images/jumbotron.png" alt="First slide">
+      <div class="carousel-caption d-none d-md-block">
+        <button type="button" class="btn btn-warning">Learn More</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- <div class="jumbotron-img">
+  Act Confidently with
+Our Digital Transformation<br>
+We reassembling your digital system
+<button type="button" class="btn btn-orange">Learn More</button>
+</div> -->
+";s:5:"mtime";i:1513594507;s:6:"markup";s:656:"<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="/agit-project/themes/rainlab-bonjour/assets/images/jumbotron.png" alt="First slide">
+      <div class="carousel-caption d-none d-md-block">
+        <button type="button" class="btn btn-warning">Learn More</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- <div class="jumbotron-img">
+  Act Confidently with
+Our Digital Transformation<br>
+We reassembling your digital system
+<button type="button" class="btn btn-orange">Learn More</button>
+</div> -->";s:4:"code";N;s:7:"viewBag";a:5:{s:5:"title";s:23:"Agit - Your IT Solution";s:3:"url";s:1:"/";s:6:"layout";s:6:"master";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";}s:12:"parsedMarkup";s:656:"<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="/agit-project/themes/rainlab-bonjour/assets/images/jumbotron.png" alt="First slide">
+      <div class="carousel-caption d-none d-md-block">
+        <button type="button" class="btn btn-warning">Learn More</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- <div class="jumbotron-img">
+  Act Confidently with
+Our Digital Transformation<br>
+We reassembling your digital system
+<button type="button" class="btn btn-orange">Learn More</button>
+</div> -->";}}

@@ -1,0 +1,10 @@
+name: 'Main menu'
+items:
+    -
+        title: Demonstration
+        type: header
+        code: ''
+        viewBag:
+            isHidden: '0'
+            cssClass: ''
+            isExternal: '0'

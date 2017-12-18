@@ -1,0 +1,4 @@
+#layout-nav .nav-link {
+  font-size: 14px;
+  color: #000000;
+}

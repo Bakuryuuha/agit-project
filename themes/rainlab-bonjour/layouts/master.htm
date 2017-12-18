@@ -1,0 +1,48 @@
+description = "Layout for Master"
+
+[localePicker]
+forceUrl = 0
+
+[staticMenu]
+==
+<!DOCTYPE html>
+<html>
+    <head>
+        {% partial 'site/meta' %}
+    </head>
+    <body>
+        {% set hasChildren = (staticPage.parent ?: staticPage.page).children %}
+
+        <!-- Header -->
+        <header id="layout-header">
+          <div class="container p-0">
+            <div class="navbar navbar-top">
+              <div class="mr-auto">
+                  <a class="nav-lang mr-2" href="#">English</a> | <a class="nav-lang ml-2" href="#">Indonesia</a>
+              </div>
+              <form class="form-inline">
+                <input class="form-control" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn my-2 my-sm-0" type="submit"><i class="fa fa-search fa-fw"></i></button>
+              </form>
+            </div>
+          </div>
+        </header>
+
+        <!-- Nav -->
+        {% partial 'site/navbar' %}
+
+        <!-- Content -->
+        {% page %}
+        {% partial 'site/footer' %}
+
+        <!-- Help Popups -->
+        {% placeholder help ignore=true %}
+
+        <!-- Scripts -->
+        {% partial 'site/scripts' %}
+
+        <footer>
+
+        </footer>
+    </body>
+</html>

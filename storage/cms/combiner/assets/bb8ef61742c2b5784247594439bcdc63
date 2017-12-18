@@ -1,0 +1,12 @@
+#layout-header {
+  background: #6c1a42;
+  color: #fff;
+}
+#layout-nav {
+  padding: 1.2rem 1rem;
+  background: #fff;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}

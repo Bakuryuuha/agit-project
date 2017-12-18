@@ -1,0 +1,114 @@
+1513582409a:1:{s:16:"layoutstatic.htm";a:8:{s:8:"fileName";s:16:"layoutstatic.htm";s:7:"content";s:1599:"description = "Layout for Static Pages"
+
+[localePicker]
+forceUrl = 0
+
+[staticPage]
+useContent = 1
+default = 0
+==
+<!DOCTYPE html>
+<html>
+    <head>
+        {% partial 'site/meta' %}
+    </head>
+    <body>
+        {% set hasChildren = (staticPage.parent ?: staticPage.page).children %}
+
+        <!-- Header -->
+        <header id="layout-header">
+        </header>
+
+        <!-- Nav -->
+        {% partial 'site/nav' %}
+
+        <!-- Content -->
+        <section id="layout-content">
+            {% if hasChildren %}
+                <div id="layout-subnav">
+                    <div class="container">
+                        {% partial 'site/subnav' page=staticPage.page %}
+                    </div>
+                </div>
+            {% endif %}
+            <div class="container">
+
+                <div class="static-content-page">
+                    <div class="title-area">
+                        <h2>{{ this.page.title }}</h2>
+                    </div>
+
+                    {% page %}
+                </div>
+                {% if placeholder('extraContent') %}
+                    <div class="static-content-extra">
+                        {% placeholder extraContent title="Extra content" %}
+                    </div>
+                {% endif %}
+            </div>
+        </section>
+        {% partial 'site/footer' %}
+        
+        <!-- Help Popups -->
+        {% placeholder help ignore=true %}
+
+        <!-- Scripts -->
+        {% partial 'site/scripts' %}
+
+        <footer>
+        
+        </footer>
+    </body>
+</html>";s:5:"mtime";i:1513566507;s:6:"markup";s:1477:"<!DOCTYPE html>
+<html>
+    <head>
+        {% partial 'site/meta' %}
+    </head>
+    <body>
+        {% set hasChildren = (staticPage.parent ?: staticPage.page).children %}
+
+        <!-- Header -->
+        <header id="layout-header">
+        </header>
+
+        <!-- Nav -->
+        {% partial 'site/nav' %}
+
+        <!-- Content -->
+        <section id="layout-content">
+            {% if hasChildren %}
+                <div id="layout-subnav">
+                    <div class="container">
+                        {% partial 'site/subnav' page=staticPage.page %}
+                    </div>
+                </div>
+            {% endif %}
+            <div class="container">
+
+                <div class="static-content-page">
+                    <div class="title-area">
+                        <h2>{{ this.page.title }}</h2>
+                    </div>
+
+                    {% page %}
+                </div>
+                {% if placeholder('extraContent') %}
+                    <div class="static-content-extra">
+                        {% placeholder extraContent title="Extra content" %}
+                    </div>
+                {% endif %}
+            </div>
+        </section>
+        {% partial 'site/footer' %}
+        
+        <!-- Help Popups -->
+        {% placeholder help ignore=true %}
+
+        <!-- Scripts -->
+        {% partial 'site/scripts' %}
+
+        <footer>
+        
+        </footer>
+    </body>
+</html>";s:4:"code";N;s:11:"description";s:23:"Layout for Static Pages";s:12:"localePicker";a:1:{s:8:"forceUrl";s:1:"0";}s:10:"staticPage";a:2:{s:10:"useContent";s:1:"1";s:7:"default";s:1:"0";}}}
