@@ -1,4 +1,4 @@
-1513628999a:1:{s:9:"index.htm";a:7:{s:8:"fileName";s:9:"index.htm";s:7:"content";s:10440:"[viewBag]
+1513661746a:1:{s:9:"index.htm";a:7:{s:8:"fileName";s:9:"index.htm";s:7:"content";s:12631:"[viewBag]
 title = "Agit - Your IT Solution"
 url = "/"
 layout = "master"
@@ -24,50 +24,132 @@ navigation_hidden = 0
 <div class="page-content bg-white">
     <div class="container">
         <div class="title">Cloud Service Provider:<br><b>Beyond Reselling Licenses</b></div>
-        <div class="">
+        <div class="mb-5 text-center">
             AGIT is now launching new business model; Cloud Service Provider. more than just a manage service provider – we are your trusted service partner. With our years of experience and Microsoft certified professionals of managed private cloud and providing hosting solutions, we are honored to be one of the few chosen to be Microsoft’s direct CSP partner in Indonesia, providing best cloud solutions for enterprises, emerging corporates and small medium businesses. Our full end to end service includes:
         </div>
         <div class="row">
-            <div class="col-3 agit-csp-card">
-                <div class="card bg-dark text-white">
-                    <img class="card-img" src="..." alt="Card image">
-                    <div class="card-img-overlay">
-                        <h4 class="card-title">Card title</h4>
-                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                        <p class="card-text">Last updated 3 mins ago</p>
-                    </div>
-                </div>
-                Customer Satisfaction is key
+            <div class="col-3">
+            	<div class="agit-csp-card">
+            		<div class="cardbox">
+	                	<div class="original">	                		
+	                		<div class="text">
+	                			<i class="fa fa-phone-square fa-3x"></i><br>
+	                			Customer Satisfaction is a key
+	                		</div>
+	                	</div>
+	                	<div class="on-hover">
+	                		<div>
+	                			<b>Cloud or non-cloud -- Why not Hybrid?</b><br><br>
+	                		AGIT CSP provides Hybrid cloud solution to combine your cloud & non-cloud needs. With hybrid combination, you can get full experience on private cloud and on-premises hosting solutions. Your choice.
+	                		</div>
+	                	</div>
+	                </div>
+            	</div>
             </div>
-            <div class="col-3 agit-csp-card">
-                End to end cloud product & solutions
+            <div class="col-3">
+            	<div class="agit-csp-card">
+            		<div class="cardbox">
+	                	<div class="original">	                		
+	                		<div class="text">
+	                			<i class="fa fa-cloud-upload fa-3x"></i><br>
+	                			End to end cloud product & solutions
+	                		</div>
+	                	</div>
+	                	<div class="on-hover">
+	                		<div>
+	                			<b>Cloud or non-cloud -- Why not Hybrid?</b><br><br>
+	                		AGIT CSP provides Hybrid cloud solution to combine your cloud & non-cloud needs. With hybrid combination, you can get full experience on private cloud and on-premises hosting solutions. Your choice.
+	                		</div>
+	                	</div>
+	                </div>
+            	</div>
             </div>
-            <div class="col-3 agit-csp-card">
-                Lorem Ipsum
+            <div class="col-3">
+            	<div class="agit-csp-card">
+            		<div class="cardbox">
+	                	<div class="original">	                		
+	                		<div class="text">
+	                			<i class="fa fa-phone-square fa-3x"></i><br>
+	                			Customer Satisfaction is a key
+	                		</div>
+	                	</div>
+	                	<div class="on-hover">
+	                		<div>
+	                			<b>Cloud or non-cloud -- Why not Hybrid?</b><br><br>
+	                		AGIT CSP provides Hybrid cloud solution to combine your cloud & non-cloud needs. With hybrid combination, you can get full experience on private cloud and on-premises hosting solutions. Your choice.
+	                		</div>
+	                	</div>
+	                </div>
+            	</div>
             </div>
-            <div class="col-3 agit-csp-card">
-                Monthly / annual billing? You decide.
+            <div class="col-3">
+            	<div class="agit-csp-card">
+            		<div class="cardbox">
+	                	<div class="original">	                		
+	                		<div class="text">
+	                			<i class="fa fa-file-text-o fa-3x"></i><br>
+	                			Monthly / annual billing? You decide.
+	                		</div>
+	                	</div>
+	                	<div class="on-hover">
+	                		<div>
+	                			<b>Cloud or non-cloud -- Why not Hybrid?</b><br><br>
+	                		AGIT CSP provides Hybrid cloud solution to combine your cloud & non-cloud needs. With hybrid combination, you can get full experience on private cloud and on-premises hosting solutions. Your choice.
+	                		</div>
+	                	</div>
+	                </div>
+            	</div>
             </div>
         </div>
     </div>
 </div>
 <div class="page-content bg-light">
-    <div class="container">
+    <div class="container pns">
         <div class="title">Product & Solutions</div>
         <div class="row">
-            <div class="col-2">
+            <div class="col-1 ml-auto">
                 <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                    <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">Home</a>
-                    <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">Profile</a>
+                    <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">
+                    	<img src="/agit-project/themes/rainlab-bonjour/assets/images/office_365_logo.png" alt="office_365_logo" class="img-fluid">
+                    </a>
+                    <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">
+                    	<img src="/agit-project/themes/rainlab-bonjour/assets/images/azure_logo.png" alt="azure_logo" class="img-fluid">
+                    </a>
                 </div>
             </div>
-            <div class="col-10">
+            <div class="col-8 ml-3 mr-auto">
                 <div class="tab-content" id="v-pills-tabContent">
                     <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
-                        AGIT is now launching new business model; Cloud Service Provider. more than just a manage service provider – we are your trusted service partner. With our years of experience and Microsoft certified professionals of managed private cloud and providing hosting solutions, we are honored to be one of the few chosen to be Microsoft’s direct CSP partner in Indonesia, providing best cloud solutions for enterprises, emerging corporates and small medium businesses. Our full end to end service includes:
+                        <div class="row">
+                        	<div class="col-6">
+                        		<div class="logo-box">
+                        			<img src="/agit-project/themes/rainlab-bonjour/assets/images/office_365_logo.png" alt="office_365_logo" class="img-fluid">
+                        		</div>
+                        	</div>
+                        	<div class="col-6">
+                        		<div class="h5"><b>What is Office 365?</b></div>
+                        		<div class="mb-3">
+                        			AGIT is now launching new business model; Cloud Service Provider. more than just a manage service provider – we are your trusted service partner. With our years of experience and Microsoft certified professionals of managed private cloud and providing hosting solutions, we are honored to be one of the few chosen to be Microsoft’s direct CSP partner in Indonesia, providing best cloud solutions for enterprises, emerging corporates and small medium businesses. Our full end to end service includes:
+                        		</div>                        		
+                        		<a href="#" class="btn btn-danger">Click Here</a>
+                        	</div>
+                        </div>
                     </div>
                     <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
-                        The only major cloud platform that offers IAAS, PAAS OR HYBRID. ALWAYS UP, ALWAYS ON Microsoft Azure delivers a 99.95% monthly SLA Enables you to use any language, framework, or tool to build applications. UNLIMITED SERVERS. UNLIMITED STORAGE you to easily scale your applications to any size BETTER PRICE FOR PERFORMANCE than Amazon EC2, better interoperability with Microsoft Apps, and end-to-end support for Oracle POWERFUL CAPABILITIES Microsoft Azure delivers a flexible cloud platform that can satisfy any application need.
+                        <div class="row">
+                        	<div class="col-6">
+                        		<div class="logo-box">
+                        			<img src="/agit-project/themes/rainlab-bonjour/assets/images/azure_logo.png" alt="azure_logo" class="img-fluid">
+                        		</div>                        		
+                        	</div>
+                        	<div class="col-6">
+                        		<div class="h5"><b>What is Microsoft Azure?</b></div>
+                        		<div class="mb-3">
+                        			AGIT is now launching new business model; Cloud Service Provider. more than just a manage service provider – we are your trusted service partner. With our years of experience and Microsoft certified professionals of managed private cloud and providing hosting solutions, we are honored to be one of the few chosen to be Microsoft’s direct CSP partner in Indonesia, providing best cloud solutions for enterprises, emerging corporates and small medium businesses. Our full end to end service includes:
+                        		</div>                        		
+                        		<a href="#" class="btn btn-danger">Click Here</a>
+                        	</div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -121,48 +203,6 @@ navigation_hidden = 0
                 </div>
             </div>
         </div>
-        <!-- <div class="row">
-            <div class="col-3">
-                <div class="card">
-                    <img class="card-img-top" src="..." alt="Card image cap">
-                    <div class="card-body">
-                        <h4 class="card-title">Card title</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-3">
-                <div class="card">
-                    <img class="card-img-top" src="..." alt="Card image cap">
-                    <div class="card-body">
-                        <h4 class="card-title">Card title</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-3">
-                <div class="card">
-                    <img class="card-img-top" src="..." alt="Card image cap">
-                    <div class="card-body">
-                        <h4 class="card-title">Card title</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-3">
-                <div class="card">
-                    <img class="card-img-top" src="..." alt="Card image cap">
-                    <div class="card-body">
-                        <h4 class="card-title">Card title</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div>
-            </div>
-        </div> -->
     </div>
 </div>
 <div class="page-content bg-light">
@@ -176,7 +216,7 @@ navigation_hidden = 0
 			<button class="btn btn-outline-warning ml-2"><i class="fa fa-envelope-o fa-fw"></i> marketing@ag-it.com</button>
 		</div>
 	</div>
-</div>";s:5:"mtime";i:1513628397;s:6:"markup";s:10329:"<div id="accessDiv" class="carousel slide" data-ride="carousel">
+</div>";s:5:"mtime";i:1513661140;s:6:"markup";s:12513:"<div id="accessDiv" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active">
             <img class="d-block w-100" src="/agit-project/themes/rainlab-bonjour/assets/images/jumbotron.png" alt="First slide">
@@ -195,50 +235,132 @@ navigation_hidden = 0
 <div class="page-content bg-white">
     <div class="container">
         <div class="title">Cloud Service Provider:<br><b>Beyond Reselling Licenses</b></div>
-        <div class="">
+        <div class="mb-5 text-center">
             AGIT is now launching new business model; Cloud Service Provider. more than just a manage service provider – we are your trusted service partner. With our years of experience and Microsoft certified professionals of managed private cloud and providing hosting solutions, we are honored to be one of the few chosen to be Microsoft’s direct CSP partner in Indonesia, providing best cloud solutions for enterprises, emerging corporates and small medium businesses. Our full end to end service includes:
         </div>
         <div class="row">
-            <div class="col-3 agit-csp-card">
-                <div class="card bg-dark text-white">
-                    <img class="card-img" src="..." alt="Card image">
-                    <div class="card-img-overlay">
-                        <h4 class="card-title">Card title</h4>
-                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                        <p class="card-text">Last updated 3 mins ago</p>
-                    </div>
-                </div>
-                Customer Satisfaction is key
+            <div class="col-3">
+            	<div class="agit-csp-card">
+            		<div class="cardbox">
+	                	<div class="original">	                		
+	                		<div class="text">
+	                			<i class="fa fa-phone-square fa-3x"></i><br>
+	                			Customer Satisfaction is a key
+	                		</div>
+	                	</div>
+	                	<div class="on-hover">
+	                		<div>
+	                			<b>Cloud or non-cloud -- Why not Hybrid?</b><br><br>
+	                		AGIT CSP provides Hybrid cloud solution to combine your cloud & non-cloud needs. With hybrid combination, you can get full experience on private cloud and on-premises hosting solutions. Your choice.
+	                		</div>
+	                	</div>
+	                </div>
+            	</div>
             </div>
-            <div class="col-3 agit-csp-card">
-                End to end cloud product & solutions
+            <div class="col-3">
+            	<div class="agit-csp-card">
+            		<div class="cardbox">
+	                	<div class="original">	                		
+	                		<div class="text">
+	                			<i class="fa fa-cloud-upload fa-3x"></i><br>
+	                			End to end cloud product & solutions
+	                		</div>
+	                	</div>
+	                	<div class="on-hover">
+	                		<div>
+	                			<b>Cloud or non-cloud -- Why not Hybrid?</b><br><br>
+	                		AGIT CSP provides Hybrid cloud solution to combine your cloud & non-cloud needs. With hybrid combination, you can get full experience on private cloud and on-premises hosting solutions. Your choice.
+	                		</div>
+	                	</div>
+	                </div>
+            	</div>
             </div>
-            <div class="col-3 agit-csp-card">
-                Lorem Ipsum
+            <div class="col-3">
+            	<div class="agit-csp-card">
+            		<div class="cardbox">
+	                	<div class="original">	                		
+	                		<div class="text">
+	                			<i class="fa fa-phone-square fa-3x"></i><br>
+	                			Customer Satisfaction is a key
+	                		</div>
+	                	</div>
+	                	<div class="on-hover">
+	                		<div>
+	                			<b>Cloud or non-cloud -- Why not Hybrid?</b><br><br>
+	                		AGIT CSP provides Hybrid cloud solution to combine your cloud & non-cloud needs. With hybrid combination, you can get full experience on private cloud and on-premises hosting solutions. Your choice.
+	                		</div>
+	                	</div>
+	                </div>
+            	</div>
             </div>
-            <div class="col-3 agit-csp-card">
-                Monthly / annual billing? You decide.
+            <div class="col-3">
+            	<div class="agit-csp-card">
+            		<div class="cardbox">
+	                	<div class="original">	                		
+	                		<div class="text">
+	                			<i class="fa fa-file-text-o fa-3x"></i><br>
+	                			Monthly / annual billing? You decide.
+	                		</div>
+	                	</div>
+	                	<div class="on-hover">
+	                		<div>
+	                			<b>Cloud or non-cloud -- Why not Hybrid?</b><br><br>
+	                		AGIT CSP provides Hybrid cloud solution to combine your cloud & non-cloud needs. With hybrid combination, you can get full experience on private cloud and on-premises hosting solutions. Your choice.
+	                		</div>
+	                	</div>
+	                </div>
+            	</div>
             </div>
         </div>
     </div>
 </div>
 <div class="page-content bg-light">
-    <div class="container">
+    <div class="container pns">
         <div class="title">Product & Solutions</div>
         <div class="row">
-            <div class="col-2">
+            <div class="col-1 ml-auto">
                 <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                    <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">Home</a>
-                    <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">Profile</a>
+                    <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">
+                    	<img src="/agit-project/themes/rainlab-bonjour/assets/images/office_365_logo.png" alt="office_365_logo" class="img-fluid">
+                    </a>
+                    <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">
+                    	<img src="/agit-project/themes/rainlab-bonjour/assets/images/azure_logo.png" alt="azure_logo" class="img-fluid">
+                    </a>
                 </div>
             </div>
-            <div class="col-10">
+            <div class="col-8 ml-3 mr-auto">
                 <div class="tab-content" id="v-pills-tabContent">
                     <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
-                        AGIT is now launching new business model; Cloud Service Provider. more than just a manage service provider – we are your trusted service partner. With our years of experience and Microsoft certified professionals of managed private cloud and providing hosting solutions, we are honored to be one of the few chosen to be Microsoft’s direct CSP partner in Indonesia, providing best cloud solutions for enterprises, emerging corporates and small medium businesses. Our full end to end service includes:
+                        <div class="row">
+                        	<div class="col-6">
+                        		<div class="logo-box">
+                        			<img src="/agit-project/themes/rainlab-bonjour/assets/images/office_365_logo.png" alt="office_365_logo" class="img-fluid">
+                        		</div>
+                        	</div>
+                        	<div class="col-6">
+                        		<div class="h5"><b>What is Office 365?</b></div>
+                        		<div class="mb-3">
+                        			AGIT is now launching new business model; Cloud Service Provider. more than just a manage service provider – we are your trusted service partner. With our years of experience and Microsoft certified professionals of managed private cloud and providing hosting solutions, we are honored to be one of the few chosen to be Microsoft’s direct CSP partner in Indonesia, providing best cloud solutions for enterprises, emerging corporates and small medium businesses. Our full end to end service includes:
+                        		</div>                        		
+                        		<a href="#" class="btn btn-danger">Click Here</a>
+                        	</div>
+                        </div>
                     </div>
                     <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
-                        The only major cloud platform that offers IAAS, PAAS OR HYBRID. ALWAYS UP, ALWAYS ON Microsoft Azure delivers a 99.95% monthly SLA Enables you to use any language, framework, or tool to build applications. UNLIMITED SERVERS. UNLIMITED STORAGE you to easily scale your applications to any size BETTER PRICE FOR PERFORMANCE than Amazon EC2, better interoperability with Microsoft Apps, and end-to-end support for Oracle POWERFUL CAPABILITIES Microsoft Azure delivers a flexible cloud platform that can satisfy any application need.
+                        <div class="row">
+                        	<div class="col-6">
+                        		<div class="logo-box">
+                        			<img src="/agit-project/themes/rainlab-bonjour/assets/images/azure_logo.png" alt="azure_logo" class="img-fluid">
+                        		</div>                        		
+                        	</div>
+                        	<div class="col-6">
+                        		<div class="h5"><b>What is Microsoft Azure?</b></div>
+                        		<div class="mb-3">
+                        			AGIT is now launching new business model; Cloud Service Provider. more than just a manage service provider – we are your trusted service partner. With our years of experience and Microsoft certified professionals of managed private cloud and providing hosting solutions, we are honored to be one of the few chosen to be Microsoft’s direct CSP partner in Indonesia, providing best cloud solutions for enterprises, emerging corporates and small medium businesses. Our full end to end service includes:
+                        		</div>                        		
+                        		<a href="#" class="btn btn-danger">Click Here</a>
+                        	</div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -292,48 +414,6 @@ navigation_hidden = 0
                 </div>
             </div>
         </div>
-        <!-- <div class="row">
-            <div class="col-3">
-                <div class="card">
-                    <img class="card-img-top" src="..." alt="Card image cap">
-                    <div class="card-body">
-                        <h4 class="card-title">Card title</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-3">
-                <div class="card">
-                    <img class="card-img-top" src="..." alt="Card image cap">
-                    <div class="card-body">
-                        <h4 class="card-title">Card title</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-3">
-                <div class="card">
-                    <img class="card-img-top" src="..." alt="Card image cap">
-                    <div class="card-body">
-                        <h4 class="card-title">Card title</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-3">
-                <div class="card">
-                    <img class="card-img-top" src="..." alt="Card image cap">
-                    <div class="card-body">
-                        <h4 class="card-title">Card title</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div>
-            </div>
-        </div> -->
     </div>
 </div>
 <div class="page-content bg-light">
@@ -347,7 +427,7 @@ navigation_hidden = 0
 			<button class="btn btn-outline-warning ml-2"><i class="fa fa-envelope-o fa-fw"></i> marketing@ag-it.com</button>
 		</div>
 	</div>
-</div>";s:4:"code";N;s:7:"viewBag";a:5:{s:5:"title";s:23:"Agit - Your IT Solution";s:3:"url";s:1:"/";s:6:"layout";s:6:"master";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";}s:12:"parsedMarkup";s:10329:"<div id="accessDiv" class="carousel slide" data-ride="carousel">
+</div>";s:4:"code";N;s:7:"viewBag";a:5:{s:5:"title";s:23:"Agit - Your IT Solution";s:3:"url";s:1:"/";s:6:"layout";s:6:"master";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";}s:12:"parsedMarkup";s:12513:"<div id="accessDiv" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active">
             <img class="d-block w-100" src="/agit-project/themes/rainlab-bonjour/assets/images/jumbotron.png" alt="First slide">
@@ -366,50 +446,132 @@ navigation_hidden = 0
 <div class="page-content bg-white">
     <div class="container">
         <div class="title">Cloud Service Provider:<br><b>Beyond Reselling Licenses</b></div>
-        <div class="">
+        <div class="mb-5 text-center">
             AGIT is now launching new business model; Cloud Service Provider. more than just a manage service provider – we are your trusted service partner. With our years of experience and Microsoft certified professionals of managed private cloud and providing hosting solutions, we are honored to be one of the few chosen to be Microsoft’s direct CSP partner in Indonesia, providing best cloud solutions for enterprises, emerging corporates and small medium businesses. Our full end to end service includes:
         </div>
         <div class="row">
-            <div class="col-3 agit-csp-card">
-                <div class="card bg-dark text-white">
-                    <img class="card-img" src="..." alt="Card image">
-                    <div class="card-img-overlay">
-                        <h4 class="card-title">Card title</h4>
-                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                        <p class="card-text">Last updated 3 mins ago</p>
-                    </div>
-                </div>
-                Customer Satisfaction is key
+            <div class="col-3">
+            	<div class="agit-csp-card">
+            		<div class="cardbox">
+	                	<div class="original">	                		
+	                		<div class="text">
+	                			<i class="fa fa-phone-square fa-3x"></i><br>
+	                			Customer Satisfaction is a key
+	                		</div>
+	                	</div>
+	                	<div class="on-hover">
+	                		<div>
+	                			<b>Cloud or non-cloud -- Why not Hybrid?</b><br><br>
+	                		AGIT CSP provides Hybrid cloud solution to combine your cloud & non-cloud needs. With hybrid combination, you can get full experience on private cloud and on-premises hosting solutions. Your choice.
+	                		</div>
+	                	</div>
+	                </div>
+            	</div>
             </div>
-            <div class="col-3 agit-csp-card">
-                End to end cloud product & solutions
+            <div class="col-3">
+            	<div class="agit-csp-card">
+            		<div class="cardbox">
+	                	<div class="original">	                		
+	                		<div class="text">
+	                			<i class="fa fa-cloud-upload fa-3x"></i><br>
+	                			End to end cloud product & solutions
+	                		</div>
+	                	</div>
+	                	<div class="on-hover">
+	                		<div>
+	                			<b>Cloud or non-cloud -- Why not Hybrid?</b><br><br>
+	                		AGIT CSP provides Hybrid cloud solution to combine your cloud & non-cloud needs. With hybrid combination, you can get full experience on private cloud and on-premises hosting solutions. Your choice.
+	                		</div>
+	                	</div>
+	                </div>
+            	</div>
             </div>
-            <div class="col-3 agit-csp-card">
-                Lorem Ipsum
+            <div class="col-3">
+            	<div class="agit-csp-card">
+            		<div class="cardbox">
+	                	<div class="original">	                		
+	                		<div class="text">
+	                			<i class="fa fa-phone-square fa-3x"></i><br>
+	                			Customer Satisfaction is a key
+	                		</div>
+	                	</div>
+	                	<div class="on-hover">
+	                		<div>
+	                			<b>Cloud or non-cloud -- Why not Hybrid?</b><br><br>
+	                		AGIT CSP provides Hybrid cloud solution to combine your cloud & non-cloud needs. With hybrid combination, you can get full experience on private cloud and on-premises hosting solutions. Your choice.
+	                		</div>
+	                	</div>
+	                </div>
+            	</div>
             </div>
-            <div class="col-3 agit-csp-card">
-                Monthly / annual billing? You decide.
+            <div class="col-3">
+            	<div class="agit-csp-card">
+            		<div class="cardbox">
+	                	<div class="original">	                		
+	                		<div class="text">
+	                			<i class="fa fa-file-text-o fa-3x"></i><br>
+	                			Monthly / annual billing? You decide.
+	                		</div>
+	                	</div>
+	                	<div class="on-hover">
+	                		<div>
+	                			<b>Cloud or non-cloud -- Why not Hybrid?</b><br><br>
+	                		AGIT CSP provides Hybrid cloud solution to combine your cloud & non-cloud needs. With hybrid combination, you can get full experience on private cloud and on-premises hosting solutions. Your choice.
+	                		</div>
+	                	</div>
+	                </div>
+            	</div>
             </div>
         </div>
     </div>
 </div>
 <div class="page-content bg-light">
-    <div class="container">
+    <div class="container pns">
         <div class="title">Product & Solutions</div>
         <div class="row">
-            <div class="col-2">
+            <div class="col-1 ml-auto">
                 <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                    <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">Home</a>
-                    <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">Profile</a>
+                    <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">
+                    	<img src="/agit-project/themes/rainlab-bonjour/assets/images/office_365_logo.png" alt="office_365_logo" class="img-fluid">
+                    </a>
+                    <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">
+                    	<img src="/agit-project/themes/rainlab-bonjour/assets/images/azure_logo.png" alt="azure_logo" class="img-fluid">
+                    </a>
                 </div>
             </div>
-            <div class="col-10">
+            <div class="col-8 ml-3 mr-auto">
                 <div class="tab-content" id="v-pills-tabContent">
                     <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
-                        AGIT is now launching new business model; Cloud Service Provider. more than just a manage service provider – we are your trusted service partner. With our years of experience and Microsoft certified professionals of managed private cloud and providing hosting solutions, we are honored to be one of the few chosen to be Microsoft’s direct CSP partner in Indonesia, providing best cloud solutions for enterprises, emerging corporates and small medium businesses. Our full end to end service includes:
+                        <div class="row">
+                        	<div class="col-6">
+                        		<div class="logo-box">
+                        			<img src="/agit-project/themes/rainlab-bonjour/assets/images/office_365_logo.png" alt="office_365_logo" class="img-fluid">
+                        		</div>
+                        	</div>
+                        	<div class="col-6">
+                        		<div class="h5"><b>What is Office 365?</b></div>
+                        		<div class="mb-3">
+                        			AGIT is now launching new business model; Cloud Service Provider. more than just a manage service provider – we are your trusted service partner. With our years of experience and Microsoft certified professionals of managed private cloud and providing hosting solutions, we are honored to be one of the few chosen to be Microsoft’s direct CSP partner in Indonesia, providing best cloud solutions for enterprises, emerging corporates and small medium businesses. Our full end to end service includes:
+                        		</div>                        		
+                        		<a href="#" class="btn btn-danger">Click Here</a>
+                        	</div>
+                        </div>
                     </div>
                     <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
-                        The only major cloud platform that offers IAAS, PAAS OR HYBRID. ALWAYS UP, ALWAYS ON Microsoft Azure delivers a 99.95% monthly SLA Enables you to use any language, framework, or tool to build applications. UNLIMITED SERVERS. UNLIMITED STORAGE you to easily scale your applications to any size BETTER PRICE FOR PERFORMANCE than Amazon EC2, better interoperability with Microsoft Apps, and end-to-end support for Oracle POWERFUL CAPABILITIES Microsoft Azure delivers a flexible cloud platform that can satisfy any application need.
+                        <div class="row">
+                        	<div class="col-6">
+                        		<div class="logo-box">
+                        			<img src="/agit-project/themes/rainlab-bonjour/assets/images/azure_logo.png" alt="azure_logo" class="img-fluid">
+                        		</div>                        		
+                        	</div>
+                        	<div class="col-6">
+                        		<div class="h5"><b>What is Microsoft Azure?</b></div>
+                        		<div class="mb-3">
+                        			AGIT is now launching new business model; Cloud Service Provider. more than just a manage service provider – we are your trusted service partner. With our years of experience and Microsoft certified professionals of managed private cloud and providing hosting solutions, we are honored to be one of the few chosen to be Microsoft’s direct CSP partner in Indonesia, providing best cloud solutions for enterprises, emerging corporates and small medium businesses. Our full end to end service includes:
+                        		</div>                        		
+                        		<a href="#" class="btn btn-danger">Click Here</a>
+                        	</div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -463,48 +625,6 @@ navigation_hidden = 0
                 </div>
             </div>
         </div>
-        <!-- <div class="row">
-            <div class="col-3">
-                <div class="card">
-                    <img class="card-img-top" src="..." alt="Card image cap">
-                    <div class="card-body">
-                        <h4 class="card-title">Card title</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-3">
-                <div class="card">
-                    <img class="card-img-top" src="..." alt="Card image cap">
-                    <div class="card-body">
-                        <h4 class="card-title">Card title</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-3">
-                <div class="card">
-                    <img class="card-img-top" src="..." alt="Card image cap">
-                    <div class="card-body">
-                        <h4 class="card-title">Card title</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-3">
-                <div class="card">
-                    <img class="card-img-top" src="..." alt="Card image cap">
-                    <div class="card-body">
-                        <h4 class="card-title">Card title</h4>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div>
-            </div>
-        </div> -->
     </div>
 </div>
 <div class="page-content bg-light">

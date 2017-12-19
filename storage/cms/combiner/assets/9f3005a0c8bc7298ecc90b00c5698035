@@ -1,0 +1,239 @@
+html,
+body {
+    color: #525252;
+}
+
+.form-control:focus,
+.btn:focus {
+    border-color: #f79021;
+    box-shadow: none;
+}
+
+#layout-header {
+    background: #6c1a42;
+    color: #fff;
+    padding: .2rem 0;
+}
+
+#layout-header .nav-lang {
+    color: #fff;
+    font-size: .8rem;
+}
+
+#layout-header .form-inline .form-control {
+    background: no-repeat;
+    color: #fff;
+    border-radius: 2rem;
+    padding-left: 1.2rem;
+    font-size: .8rem;
+    min-width: 250px;
+}
+
+#layout-header .form-inline .btn {
+    position: absolute;
+    right: 1.25rem;
+    background: no-repeat;
+    color: #fff;
+    z-index: 2;
+    cursor: pointer;
+    border: none;
+    font-size: .8rem;
+    padding-bottom: .5rem;
+}
+
+#layout-header .form-inline .btn:hover {
+    color: #f79021;
+}
+
+#layout-header .form-inline .btn:focus {
+    box-shadow: none;
+}
+
+#layout-nav {
+    padding: 1.2rem 1rem;
+    background: #fff;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+#accessDiv .carousel-caption {
+    bottom: 0;
+    top: 0;
+    display: flex;
+    align-items: center;
+}
+
+#accessDiv .card {
+    width: 60%;
+    background: none;
+    text-align: left;
+    color: #525252;
+    border: none;
+}
+
+.cardbox {
+    display: block;
+    overflow: hidden;
+    text-align: center;
+    position: relative;
+    height: 23vw;
+}
+
+.cardbox .original {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: url("../images/jumbotron.png") center center no-repeat;
+    background-size: cover;
+    padding: 3em 2em;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardbox .original:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: #151515;
+    opacity: .6;
+}
+.cardbox .original .text {
+    position: relative;
+    font-weight: 500;
+}
+.agit-csp-card .on-hover {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #f79021;
+    color: #fff;
+    padding: 1em;
+    transform: translateY(-100%);
+    -webkit-transition: transform 0.5s ease-out;
+    -o-transition: transform 0.5s ease-out;
+    transition: transform 0.5s ease-out;
+    font-size: .9rem;
+    display: flex;
+    align-items: center;
+}
+
+.agit-csp-card .cardbox:hover .on-hover {
+    transform: translateY(0);
+}
+
+.pns .nav-pills .nav-link {
+    background-color: #fff;
+    margin-bottom: 1rem;
+}
+.pns .nav-pills .nav-link.active, .pns .nav-pills .show>.nav-link {
+    border: 1px solid #f79021;
+}
+
+.page-content .container {
+    padding-top: 3rem;
+    padding-bottom: 3rem
+}
+
+.page-content .title {
+    font-size: 1.5rem;
+    text-align: center;
+    margin-bottom: 1.4em;
+}
+
+.page-content .sub-title {
+    font-size: .9rem;
+}
+
+.page-content .card-deck .card {
+    -webkit-transition: all .15s ease-out;
+    transition: all .15s ease-out;
+    -webkit-box-shadow: 0 5px 20px -5px rgba(50, 50, 93, 0.12), 0 3px 4px -2px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 5px 20px -5px rgba(50, 50, 93, 0.12), 0 3px 4px -2px rgba(0, 0, 0, 0.08);
+}
+
+.page-content .card-deck .card:hover {
+    -webkit-box-shadow: 0 30px 75px -15px rgba(50, 50, 93, 0.3), 0 25px 40px -20px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 30px 75px -15px rgba(50, 50, 93, 0.3), 0 25px 40px -20px rgba(0, 0, 0, 0.1);
+}
+
+.page-content .card-img-top {
+    border-radius: 50%;
+    height: 5rem;
+    width: 5rem;
+    object-fit: cover;
+}
+
+.page-content .card-deck .name {
+    font-size: 1rem;
+    font-weight: 500;
+    margin: .6em 0 0;
+    line-height: 1rem;
+}
+
+.page-content .card-deck .job-title {
+    font-size: .8rem;
+    font-weight: 500;
+    color: #7c1442;
+}
+
+.page-content .card-deck .card-body {
+    font-size: .85rem;
+    text-align: center;
+}
+
+.footer-bg {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: url("../images/jumbotron.png") center center no-repeat;
+    background-size: cover;
+    padding: 3em 1em;
+    color: #fff;
+}
+
+.footer-bg:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: #f79021;
+    opacity: .9;
+}
+
+.footer-bg ul {
+    -webkit-padding-start: 0px;
+    list-style-type: none;
+}
+
+.footer-bg ul li a,
+.footer-bg p {
+    color: #fff;
+    font-size: .9rem;
+}
+
+.footer-bg ul li a:hover,
+.footer-bg ul li a:focus,
+.footer-bg .social-link a:hover,
+.footer-bg .social-link a:focus {
+    text-decoration: none;
+    color: #7c1442;
+}
+
+.footer-bg .social-link a {
+    color: #fff;
+    margin-right: .5em;
+}

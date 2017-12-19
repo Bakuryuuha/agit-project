@@ -1,4 +1,4 @@
-1513628480a:1:{s:15:"site/footer.htm";a:6:{s:8:"fileName";s:15:"site/footer.htm";s:7:"content";s:2022:"[viewBag]
+1513661747a:1:{s:15:"site/footer.htm";a:6:{s:8:"fileName";s:15:"site/footer.htm";s:7:"content";s:2067:"[viewBag]
 ==
 <div class="footer-bg">
     <div class="col-10 mx-auto">
@@ -43,7 +43,7 @@
         </div>
     </div>
 </div>
-";s:5:"mtime";i:1513621194;s:6:"markup";s:2008:"<div class="footer-bg">
+";s:5:"mtime";i:1513650265;s:6:"markup";s:2050:"<div class="footer-bg">
     <div class="col-10 mx-auto">
         <div class="row no-gutters">
             <div class="col-3">

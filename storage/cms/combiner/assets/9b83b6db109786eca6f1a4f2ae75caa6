@@ -1,8 +1,0 @@
-nav#layout-nav .navbar-brand {
-
-  background-image: url('../themes/rainlab-bonjour/assets/images/agit-logo.png');
-}
-#layout-nav .nav-link {
-  font-size: 1rem;
-  color: #000000;
-}

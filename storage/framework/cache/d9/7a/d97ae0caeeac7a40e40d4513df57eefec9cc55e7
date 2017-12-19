@@ -1,10 +1,10 @@
-1513628481a:1:{s:11:"welcome.htm";a:9:{s:8:"fileName";s:11:"welcome.htm";s:7:"content";s:217:"title = "Welcome"
+1513661308a:1:{s:11:"welcome.htm";a:9:{s:8:"fileName";s:11:"welcome.htm";s:7:"content";s:224:"title = "Welcome"
 url = "/"
 layout = "master"
 is_hidden = 0
 ==
 <div class="container-fluid">
 <img src="/agit-project/themes/rainlab-bonjour/assets/images/jumbotron.png" class="img-fluid" alt="Responsive image">
-</div>";s:5:"mtime";i:1513540640;s:6:"markup";s:154:"<div class="container-fluid">
+</div>";s:5:"mtime";i:1513650265;s:6:"markup";s:156:"<div class="container-fluid">
 <img src="/agit-project/themes/rainlab-bonjour/assets/images/jumbotron.png" class="img-fluid" alt="Responsive image">
 </div>";s:4:"code";N;s:5:"title";s:7:"Welcome";s:3:"url";s:1:"/";s:6:"layout";s:6:"master";s:9:"is_hidden";s:1:"0";}}
