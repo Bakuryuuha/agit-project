@@ -1,4 +1,4 @@
-1513594747a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:1205:"title = "Hello"
+1513628481a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:1157:"title = "Hello"
 url = "/hello"
 layout = "default"
 is_hidden = 0
@@ -46,7 +46,7 @@ is_hidden = 0
         }, 1000)
 
     </script>
-{% endput %}";s:5:"mtime";i:1513591700;s:6:"markup";s:1133:"<div class="container">
+{% endput %}";s:5:"mtime";i:1513540640;s:6:"markup";s:1090:"<div class="container">
     <div id="homeGreetings" class="home-greetings">
         <h1>Hello</h1>
         <h1>Bonjour</h1>

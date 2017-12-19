@@ -1,54 +1,521 @@
-1513595112a:1:{s:9:"index.htm";a:7:{s:8:"fileName";s:9:"index.htm";s:7:"content";s:776:"[viewBag]
+1513628999a:1:{s:9:"index.htm";a:7:{s:8:"fileName";s:9:"index.htm";s:7:"content";s:10440:"[viewBag]
 title = "Agit - Your IT Solution"
 url = "/"
 layout = "master"
 is_hidden = 0
 navigation_hidden = 0
 ==
-<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-100" src="/agit-project/themes/rainlab-bonjour/assets/images/jumbotron.png" alt="First slide">
-      <div class="carousel-caption d-none d-md-block">
-        <button type="button" class="btn btn-warning">Learn More</button>
-      </div>
+<div id="accessDiv" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img class="d-block w-100" src="/agit-project/themes/rainlab-bonjour/assets/images/jumbotron.png" alt="First slide">
+            <div class="carousel-caption">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="h5">Act Confidently with<br><b>OUR DIGITAL TRANSFORMATION</b></div>
+                        <div class="h6 mb-4 text-warning">We reassembling your digital system</div>
+                        <a href="#" class="btn btn-warning">Learn More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
 </div>
-<!-- <div class="jumbotron-img">
-  Act Confidently with
-Our Digital Transformation<br>
-We reassembling your digital system
-<button type="button" class="btn btn-orange">Learn More</button>
-</div> -->
-";s:5:"mtime";i:1513594507;s:6:"markup";s:656:"<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-100" src="/agit-project/themes/rainlab-bonjour/assets/images/jumbotron.png" alt="First slide">
-      <div class="carousel-caption d-none d-md-block">
-        <button type="button" class="btn btn-warning">Learn More</button>
-      </div>
+<div class="page-content bg-white">
+    <div class="container">
+        <div class="title">Cloud Service Provider:<br><b>Beyond Reselling Licenses</b></div>
+        <div class="">
+            AGIT is now launching new business model; Cloud Service Provider. more than just a manage service provider – we are your trusted service partner. With our years of experience and Microsoft certified professionals of managed private cloud and providing hosting solutions, we are honored to be one of the few chosen to be Microsoft’s direct CSP partner in Indonesia, providing best cloud solutions for enterprises, emerging corporates and small medium businesses. Our full end to end service includes:
+        </div>
+        <div class="row">
+            <div class="col-3 agit-csp-card">
+                <div class="card bg-dark text-white">
+                    <img class="card-img" src="..." alt="Card image">
+                    <div class="card-img-overlay">
+                        <h4 class="card-title">Card title</h4>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        <p class="card-text">Last updated 3 mins ago</p>
+                    </div>
+                </div>
+                Customer Satisfaction is key
+            </div>
+            <div class="col-3 agit-csp-card">
+                End to end cloud product & solutions
+            </div>
+            <div class="col-3 agit-csp-card">
+                Lorem Ipsum
+            </div>
+            <div class="col-3 agit-csp-card">
+                Monthly / annual billing? You decide.
+            </div>
+        </div>
     </div>
-  </div>
 </div>
-<!-- <div class="jumbotron-img">
-  Act Confidently with
-Our Digital Transformation<br>
-We reassembling your digital system
-<button type="button" class="btn btn-orange">Learn More</button>
-</div> -->";s:4:"code";N;s:7:"viewBag";a:5:{s:5:"title";s:23:"Agit - Your IT Solution";s:3:"url";s:1:"/";s:6:"layout";s:6:"master";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";}s:12:"parsedMarkup";s:656:"<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-100" src="/agit-project/themes/rainlab-bonjour/assets/images/jumbotron.png" alt="First slide">
-      <div class="carousel-caption d-none d-md-block">
-        <button type="button" class="btn btn-warning">Learn More</button>
-      </div>
+<div class="page-content bg-light">
+    <div class="container">
+        <div class="title">Product & Solutions</div>
+        <div class="row">
+            <div class="col-2">
+                <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                    <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">Home</a>
+                    <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">Profile</a>
+                </div>
+            </div>
+            <div class="col-10">
+                <div class="tab-content" id="v-pills-tabContent">
+                    <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
+                        AGIT is now launching new business model; Cloud Service Provider. more than just a manage service provider – we are your trusted service partner. With our years of experience and Microsoft certified professionals of managed private cloud and providing hosting solutions, we are honored to be one of the few chosen to be Microsoft’s direct CSP partner in Indonesia, providing best cloud solutions for enterprises, emerging corporates and small medium businesses. Our full end to end service includes:
+                    </div>
+                    <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+                        The only major cloud platform that offers IAAS, PAAS OR HYBRID. ALWAYS UP, ALWAYS ON Microsoft Azure delivers a 99.95% monthly SLA Enables you to use any language, framework, or tool to build applications. UNLIMITED SERVERS. UNLIMITED STORAGE you to easily scale your applications to any size BETTER PRICE FOR PERFORMANCE than Amazon EC2, better interoperability with Microsoft Apps, and end-to-end support for Oracle POWERFUL CAPABILITIES Microsoft Azure delivers a flexible cloud platform that can satisfy any application need.
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
 </div>
-<!-- <div class="jumbotron-img">
-  Act Confidently with
-Our Digital Transformation<br>
-We reassembling your digital system
-<button type="button" class="btn btn-orange">Learn More</button>
-</div> -->";}}
+<div class="page-content bg-white">
+    <div class="container">
+        <div class="title">
+            Our Happy Customers
+        </div>
+        <div class="card-deck">
+            <div class="card">
+            	<div class="text-center mt-4">
+            		<img class="card-img-top" src="https://i.pinimg.com/736x/0e/ba/3c/0eba3c1fa70c5d43c8e8342ecf028338--free-girl-inspirational-photos.jpg" alt="Card image cap">
+            		<div class="name">Tiffany Riviera</div>
+            		<div class="job-title">CEO at secure.com</div>
+            	</div>
+                <div class="card-body">
+                    “Cloud Solution gives us a maximum ease. Very easy to implement and use. providing best cloud solutions for enterprises, emerging corporates and small medium businesses”
+                </div>
+            </div>
+            <div class="card">
+            	<div class="text-center mt-4">
+            		<img class="card-img-top" src="https://i.pinimg.com/736x/0e/ba/3c/0eba3c1fa70c5d43c8e8342ecf028338--free-girl-inspirational-photos.jpg" alt="Card image cap">
+            		<div class="name">Tiffany Riviera</div>
+            		<div class="job-title">CEO at secure.com</div>
+            	</div>
+                <div class="card-body">
+                    “Cloud Solution gives us a maximum ease. Very easy to implement and use. providing best cloud solutions for enterprises, emerging corporates and small medium businesses”
+                </div>
+            </div>
+            <div class="card">
+            	<div class="text-center mt-4">
+            		<img class="card-img-top" src="https://i.pinimg.com/736x/0e/ba/3c/0eba3c1fa70c5d43c8e8342ecf028338--free-girl-inspirational-photos.jpg" alt="Card image cap">
+            		<div class="name">Tiffany Riviera</div>
+            		<div class="job-title">CEO at secure.com</div>
+            	</div>
+                <div class="card-body">
+                    “Cloud Solution gives us a maximum ease. Very easy to implement and use. providing best cloud solutions for enterprises, emerging corporates and small medium businesses”
+                </div>
+            </div>
+            <div class="card">
+            	<div class="text-center mt-4">
+            		<img class="card-img-top" src="https://i.pinimg.com/736x/0e/ba/3c/0eba3c1fa70c5d43c8e8342ecf028338--free-girl-inspirational-photos.jpg" alt="Card image cap">
+            		<div class="name">Tiffany Riviera</div>
+            		<div class="job-title">CEO at secure.com</div>
+            	</div>
+                <div class="card-body">
+                    “Cloud Solution gives us a maximum ease. Very easy to implement and use. providing best cloud solutions for enterprises, emerging corporates and small medium businesses”
+                </div>
+            </div>
+        </div>
+        <!-- <div class="row">
+            <div class="col-3">
+                <div class="card">
+                    <img class="card-img-top" src="..." alt="Card image cap">
+                    <div class="card-body">
+                        <h4 class="card-title">Card title</h4>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-3">
+                <div class="card">
+                    <img class="card-img-top" src="..." alt="Card image cap">
+                    <div class="card-body">
+                        <h4 class="card-title">Card title</h4>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-3">
+                <div class="card">
+                    <img class="card-img-top" src="..." alt="Card image cap">
+                    <div class="card-body">
+                        <h4 class="card-title">Card title</h4>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-3">
+                <div class="card">
+                    <img class="card-img-top" src="..." alt="Card image cap">
+                    <div class="card-body">
+                        <h4 class="card-title">Card title</h4>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+    </div>
+</div>
+<div class="page-content bg-light">
+	<div class="container">
+		<div class="title">
+			Interested to know more?
+			<div class="sub-title">Get free consultation & free 30 days Office 365 here</div>
+		</div>
+		<div class="row justify-content-center">
+			<button class="btn btn-outline-warning mr-2"><i class="fa fa-phone fa-fw"></i> +62 21 572 1777</button>
+			<button class="btn btn-outline-warning ml-2"><i class="fa fa-envelope-o fa-fw"></i> marketing@ag-it.com</button>
+		</div>
+	</div>
+</div>";s:5:"mtime";i:1513628397;s:6:"markup";s:10329:"<div id="accessDiv" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img class="d-block w-100" src="/agit-project/themes/rainlab-bonjour/assets/images/jumbotron.png" alt="First slide">
+            <div class="carousel-caption">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="h5">Act Confidently with<br><b>OUR DIGITAL TRANSFORMATION</b></div>
+                        <div class="h6 mb-4 text-warning">We reassembling your digital system</div>
+                        <a href="#" class="btn btn-warning">Learn More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="page-content bg-white">
+    <div class="container">
+        <div class="title">Cloud Service Provider:<br><b>Beyond Reselling Licenses</b></div>
+        <div class="">
+            AGIT is now launching new business model; Cloud Service Provider. more than just a manage service provider – we are your trusted service partner. With our years of experience and Microsoft certified professionals of managed private cloud and providing hosting solutions, we are honored to be one of the few chosen to be Microsoft’s direct CSP partner in Indonesia, providing best cloud solutions for enterprises, emerging corporates and small medium businesses. Our full end to end service includes:
+        </div>
+        <div class="row">
+            <div class="col-3 agit-csp-card">
+                <div class="card bg-dark text-white">
+                    <img class="card-img" src="..." alt="Card image">
+                    <div class="card-img-overlay">
+                        <h4 class="card-title">Card title</h4>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        <p class="card-text">Last updated 3 mins ago</p>
+                    </div>
+                </div>
+                Customer Satisfaction is key
+            </div>
+            <div class="col-3 agit-csp-card">
+                End to end cloud product & solutions
+            </div>
+            <div class="col-3 agit-csp-card">
+                Lorem Ipsum
+            </div>
+            <div class="col-3 agit-csp-card">
+                Monthly / annual billing? You decide.
+            </div>
+        </div>
+    </div>
+</div>
+<div class="page-content bg-light">
+    <div class="container">
+        <div class="title">Product & Solutions</div>
+        <div class="row">
+            <div class="col-2">
+                <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                    <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">Home</a>
+                    <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">Profile</a>
+                </div>
+            </div>
+            <div class="col-10">
+                <div class="tab-content" id="v-pills-tabContent">
+                    <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
+                        AGIT is now launching new business model; Cloud Service Provider. more than just a manage service provider – we are your trusted service partner. With our years of experience and Microsoft certified professionals of managed private cloud and providing hosting solutions, we are honored to be one of the few chosen to be Microsoft’s direct CSP partner in Indonesia, providing best cloud solutions for enterprises, emerging corporates and small medium businesses. Our full end to end service includes:
+                    </div>
+                    <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+                        The only major cloud platform that offers IAAS, PAAS OR HYBRID. ALWAYS UP, ALWAYS ON Microsoft Azure delivers a 99.95% monthly SLA Enables you to use any language, framework, or tool to build applications. UNLIMITED SERVERS. UNLIMITED STORAGE you to easily scale your applications to any size BETTER PRICE FOR PERFORMANCE than Amazon EC2, better interoperability with Microsoft Apps, and end-to-end support for Oracle POWERFUL CAPABILITIES Microsoft Azure delivers a flexible cloud platform that can satisfy any application need.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="page-content bg-white">
+    <div class="container">
+        <div class="title">
+            Our Happy Customers
+        </div>
+        <div class="card-deck">
+            <div class="card">
+            	<div class="text-center mt-4">
+            		<img class="card-img-top" src="https://i.pinimg.com/736x/0e/ba/3c/0eba3c1fa70c5d43c8e8342ecf028338--free-girl-inspirational-photos.jpg" alt="Card image cap">
+            		<div class="name">Tiffany Riviera</div>
+            		<div class="job-title">CEO at secure.com</div>
+            	</div>
+                <div class="card-body">
+                    “Cloud Solution gives us a maximum ease. Very easy to implement and use. providing best cloud solutions for enterprises, emerging corporates and small medium businesses”
+                </div>
+            </div>
+            <div class="card">
+            	<div class="text-center mt-4">
+            		<img class="card-img-top" src="https://i.pinimg.com/736x/0e/ba/3c/0eba3c1fa70c5d43c8e8342ecf028338--free-girl-inspirational-photos.jpg" alt="Card image cap">
+            		<div class="name">Tiffany Riviera</div>
+            		<div class="job-title">CEO at secure.com</div>
+            	</div>
+                <div class="card-body">
+                    “Cloud Solution gives us a maximum ease. Very easy to implement and use. providing best cloud solutions for enterprises, emerging corporates and small medium businesses”
+                </div>
+            </div>
+            <div class="card">
+            	<div class="text-center mt-4">
+            		<img class="card-img-top" src="https://i.pinimg.com/736x/0e/ba/3c/0eba3c1fa70c5d43c8e8342ecf028338--free-girl-inspirational-photos.jpg" alt="Card image cap">
+            		<div class="name">Tiffany Riviera</div>
+            		<div class="job-title">CEO at secure.com</div>
+            	</div>
+                <div class="card-body">
+                    “Cloud Solution gives us a maximum ease. Very easy to implement and use. providing best cloud solutions for enterprises, emerging corporates and small medium businesses”
+                </div>
+            </div>
+            <div class="card">
+            	<div class="text-center mt-4">
+            		<img class="card-img-top" src="https://i.pinimg.com/736x/0e/ba/3c/0eba3c1fa70c5d43c8e8342ecf028338--free-girl-inspirational-photos.jpg" alt="Card image cap">
+            		<div class="name">Tiffany Riviera</div>
+            		<div class="job-title">CEO at secure.com</div>
+            	</div>
+                <div class="card-body">
+                    “Cloud Solution gives us a maximum ease. Very easy to implement and use. providing best cloud solutions for enterprises, emerging corporates and small medium businesses”
+                </div>
+            </div>
+        </div>
+        <!-- <div class="row">
+            <div class="col-3">
+                <div class="card">
+                    <img class="card-img-top" src="..." alt="Card image cap">
+                    <div class="card-body">
+                        <h4 class="card-title">Card title</h4>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-3">
+                <div class="card">
+                    <img class="card-img-top" src="..." alt="Card image cap">
+                    <div class="card-body">
+                        <h4 class="card-title">Card title</h4>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-3">
+                <div class="card">
+                    <img class="card-img-top" src="..." alt="Card image cap">
+                    <div class="card-body">
+                        <h4 class="card-title">Card title</h4>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-3">
+                <div class="card">
+                    <img class="card-img-top" src="..." alt="Card image cap">
+                    <div class="card-body">
+                        <h4 class="card-title">Card title</h4>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+    </div>
+</div>
+<div class="page-content bg-light">
+	<div class="container">
+		<div class="title">
+			Interested to know more?
+			<div class="sub-title">Get free consultation & free 30 days Office 365 here</div>
+		</div>
+		<div class="row justify-content-center">
+			<button class="btn btn-outline-warning mr-2"><i class="fa fa-phone fa-fw"></i> +62 21 572 1777</button>
+			<button class="btn btn-outline-warning ml-2"><i class="fa fa-envelope-o fa-fw"></i> marketing@ag-it.com</button>
+		</div>
+	</div>
+</div>";s:4:"code";N;s:7:"viewBag";a:5:{s:5:"title";s:23:"Agit - Your IT Solution";s:3:"url";s:1:"/";s:6:"layout";s:6:"master";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";}s:12:"parsedMarkup";s:10329:"<div id="accessDiv" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img class="d-block w-100" src="/agit-project/themes/rainlab-bonjour/assets/images/jumbotron.png" alt="First slide">
+            <div class="carousel-caption">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="h5">Act Confidently with<br><b>OUR DIGITAL TRANSFORMATION</b></div>
+                        <div class="h6 mb-4 text-warning">We reassembling your digital system</div>
+                        <a href="#" class="btn btn-warning">Learn More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="page-content bg-white">
+    <div class="container">
+        <div class="title">Cloud Service Provider:<br><b>Beyond Reselling Licenses</b></div>
+        <div class="">
+            AGIT is now launching new business model; Cloud Service Provider. more than just a manage service provider – we are your trusted service partner. With our years of experience and Microsoft certified professionals of managed private cloud and providing hosting solutions, we are honored to be one of the few chosen to be Microsoft’s direct CSP partner in Indonesia, providing best cloud solutions for enterprises, emerging corporates and small medium businesses. Our full end to end service includes:
+        </div>
+        <div class="row">
+            <div class="col-3 agit-csp-card">
+                <div class="card bg-dark text-white">
+                    <img class="card-img" src="..." alt="Card image">
+                    <div class="card-img-overlay">
+                        <h4 class="card-title">Card title</h4>
+                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                        <p class="card-text">Last updated 3 mins ago</p>
+                    </div>
+                </div>
+                Customer Satisfaction is key
+            </div>
+            <div class="col-3 agit-csp-card">
+                End to end cloud product & solutions
+            </div>
+            <div class="col-3 agit-csp-card">
+                Lorem Ipsum
+            </div>
+            <div class="col-3 agit-csp-card">
+                Monthly / annual billing? You decide.
+            </div>
+        </div>
+    </div>
+</div>
+<div class="page-content bg-light">
+    <div class="container">
+        <div class="title">Product & Solutions</div>
+        <div class="row">
+            <div class="col-2">
+                <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                    <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">Home</a>
+                    <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">Profile</a>
+                </div>
+            </div>
+            <div class="col-10">
+                <div class="tab-content" id="v-pills-tabContent">
+                    <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
+                        AGIT is now launching new business model; Cloud Service Provider. more than just a manage service provider – we are your trusted service partner. With our years of experience and Microsoft certified professionals of managed private cloud and providing hosting solutions, we are honored to be one of the few chosen to be Microsoft’s direct CSP partner in Indonesia, providing best cloud solutions for enterprises, emerging corporates and small medium businesses. Our full end to end service includes:
+                    </div>
+                    <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+                        The only major cloud platform that offers IAAS, PAAS OR HYBRID. ALWAYS UP, ALWAYS ON Microsoft Azure delivers a 99.95% monthly SLA Enables you to use any language, framework, or tool to build applications. UNLIMITED SERVERS. UNLIMITED STORAGE you to easily scale your applications to any size BETTER PRICE FOR PERFORMANCE than Amazon EC2, better interoperability with Microsoft Apps, and end-to-end support for Oracle POWERFUL CAPABILITIES Microsoft Azure delivers a flexible cloud platform that can satisfy any application need.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="page-content bg-white">
+    <div class="container">
+        <div class="title">
+            Our Happy Customers
+        </div>
+        <div class="card-deck">
+            <div class="card">
+            	<div class="text-center mt-4">
+            		<img class="card-img-top" src="https://i.pinimg.com/736x/0e/ba/3c/0eba3c1fa70c5d43c8e8342ecf028338--free-girl-inspirational-photos.jpg" alt="Card image cap">
+            		<div class="name">Tiffany Riviera</div>
+            		<div class="job-title">CEO at secure.com</div>
+            	</div>
+                <div class="card-body">
+                    “Cloud Solution gives us a maximum ease. Very easy to implement and use. providing best cloud solutions for enterprises, emerging corporates and small medium businesses”
+                </div>
+            </div>
+            <div class="card">
+            	<div class="text-center mt-4">
+            		<img class="card-img-top" src="https://i.pinimg.com/736x/0e/ba/3c/0eba3c1fa70c5d43c8e8342ecf028338--free-girl-inspirational-photos.jpg" alt="Card image cap">
+            		<div class="name">Tiffany Riviera</div>
+            		<div class="job-title">CEO at secure.com</div>
+            	</div>
+                <div class="card-body">
+                    “Cloud Solution gives us a maximum ease. Very easy to implement and use. providing best cloud solutions for enterprises, emerging corporates and small medium businesses”
+                </div>
+            </div>
+            <div class="card">
+            	<div class="text-center mt-4">
+            		<img class="card-img-top" src="https://i.pinimg.com/736x/0e/ba/3c/0eba3c1fa70c5d43c8e8342ecf028338--free-girl-inspirational-photos.jpg" alt="Card image cap">
+            		<div class="name">Tiffany Riviera</div>
+            		<div class="job-title">CEO at secure.com</div>
+            	</div>
+                <div class="card-body">
+                    “Cloud Solution gives us a maximum ease. Very easy to implement and use. providing best cloud solutions for enterprises, emerging corporates and small medium businesses”
+                </div>
+            </div>
+            <div class="card">
+            	<div class="text-center mt-4">
+            		<img class="card-img-top" src="https://i.pinimg.com/736x/0e/ba/3c/0eba3c1fa70c5d43c8e8342ecf028338--free-girl-inspirational-photos.jpg" alt="Card image cap">
+            		<div class="name">Tiffany Riviera</div>
+            		<div class="job-title">CEO at secure.com</div>
+            	</div>
+                <div class="card-body">
+                    “Cloud Solution gives us a maximum ease. Very easy to implement and use. providing best cloud solutions for enterprises, emerging corporates and small medium businesses”
+                </div>
+            </div>
+        </div>
+        <!-- <div class="row">
+            <div class="col-3">
+                <div class="card">
+                    <img class="card-img-top" src="..." alt="Card image cap">
+                    <div class="card-body">
+                        <h4 class="card-title">Card title</h4>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-3">
+                <div class="card">
+                    <img class="card-img-top" src="..." alt="Card image cap">
+                    <div class="card-body">
+                        <h4 class="card-title">Card title</h4>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-3">
+                <div class="card">
+                    <img class="card-img-top" src="..." alt="Card image cap">
+                    <div class="card-body">
+                        <h4 class="card-title">Card title</h4>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-3">
+                <div class="card">
+                    <img class="card-img-top" src="..." alt="Card image cap">
+                    <div class="card-body">
+                        <h4 class="card-title">Card title</h4>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+    </div>
+</div>
+<div class="page-content bg-light">
+	<div class="container">
+		<div class="title">
+			Interested to know more?
+			<div class="sub-title">Get free consultation & free 30 days Office 365 here</div>
+		</div>
+		<div class="row justify-content-center">
+			<button class="btn btn-outline-warning mr-2"><i class="fa fa-phone fa-fw"></i> +62 21 572 1777</button>
+			<button class="btn btn-outline-warning ml-2"><i class="fa fa-envelope-o fa-fw"></i> marketing@ag-it.com</button>
+		</div>
+	</div>
+</div>";}}

@@ -1,4 +1,4 @@
-1513594747a:1:{s:16:"site/scripts.htm";a:5:{s:8:"fileName";s:16:"site/scripts.htm";s:7:"content";s:844:"<script src="{{ [
+1513628480a:1:{s:16:"site/scripts.htm";a:5:{s:8:"fileName";s:16:"site/scripts.htm";s:7:"content";s:1594:"<!-- <script src="{{ [
     'assets/javascript/jquery.js',
     'assets/vendor/bootstrap/js/transition.js',
     'assets/vendor/bootstrap/js/alert.js',
@@ -13,7 +13,13 @@
     'assets/vendor/bootstrap/js/tab.js',
     'assets/vendor/bootstrap/js/affix.js',
     'assets/javascript/app.js'
-]|theme }}"></script>
+]|theme }}"></script> -->
+<!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+    <script src="{{ ['assets/javascript/app.js']|theme }}"></script>
 {% framework extras %}
 {% scripts %}
 
@@ -22,7 +28,7 @@
         $(el).toggleClass('is-visible');
         $('body').toggleClass('no-scroll');
     }
-</script>";s:5:"mtime";i:1513565702;s:6:"markup";s:844:"<script src="{{ [
+</script>";s:5:"mtime";i:1513624938;s:6:"markup";s:1594:"<!-- <script src="{{ [
     'assets/javascript/jquery.js',
     'assets/vendor/bootstrap/js/transition.js',
     'assets/vendor/bootstrap/js/alert.js',
@@ -37,7 +43,13 @@
     'assets/vendor/bootstrap/js/tab.js',
     'assets/vendor/bootstrap/js/affix.js',
     'assets/javascript/app.js'
-]|theme }}"></script>
+]|theme }}"></script> -->
+<!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+    <script src="{{ ['assets/javascript/app.js']|theme }}"></script>
 {% framework extras %}
 {% scripts %}
 
