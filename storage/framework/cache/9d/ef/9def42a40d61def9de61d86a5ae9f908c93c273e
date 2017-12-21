@@ -1,4 +1,4 @@
-1513661746a:1:{s:9:"index.htm";a:7:{s:8:"fileName";s:9:"index.htm";s:7:"content";s:12631:"[viewBag]
+1513853109a:1:{s:9:"index.htm";a:7:{s:8:"fileName";s:9:"index.htm";s:7:"content";s:12631:"[viewBag]
 title = "Agit - Your IT Solution"
 url = "/"
 layout = "master"
@@ -216,7 +216,7 @@ navigation_hidden = 0
 			<button class="btn btn-outline-warning ml-2"><i class="fa fa-envelope-o fa-fw"></i> marketing@ag-it.com</button>
 		</div>
 	</div>
-</div>";s:5:"mtime";i:1513661140;s:6:"markup";s:12513:"<div id="accessDiv" class="carousel slide" data-ride="carousel">
+</div>";s:5:"mtime";i:1513735338;s:6:"markup";s:12513:"<div id="accessDiv" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active">
             <img class="d-block w-100" src="/agit-project/themes/rainlab-bonjour/assets/images/jumbotron.png" alt="First slide">

@@ -17,9 +17,9 @@ class __TwigTemplate_77d1bf89aa80e02dc5d88093a888cd9ffd9dca154a4cc0c9f03f0875f7e
     {
         // line 1
         echo "<div class=\"footer-bg\">
-    <div class=\"col-10 mx-auto\">
+    <div class=\"col-md-10 col-12 mx-auto\">
         <div class=\"row no-gutters\">
-            <div class=\"col-3\">
+            <div class=\"col-md-3 col-12\">
                 <div class=\"h6\"><b>Tentang Kami</b></div>
                 <ul class=\"\">
                     <li class=\"\"><a href=\"\">Struktur Grup Perseroan</a></li>
@@ -27,7 +27,7 @@ class __TwigTemplate_77d1bf89aa80e02dc5d88093a888cd9ffd9dca154a4cc0c9f03f0875f7e
                     <li class=\"\"><a href=\"\">Struktur Organisasi</a></li>
                 </ul>
             </div>
-            <div class=\"col-3\">
+            <div class=\"col-md-3 col-12\">
                 <div class=\"h6\"><b>Portfolio Bisnis</b></div>
                 <ul class=\"\">
                     <li class=\"\"><a href=\"\">Astragraphia Document Solution</a></li>
@@ -35,7 +35,7 @@ class __TwigTemplate_77d1bf89aa80e02dc5d88093a888cd9ffd9dca154a4cc0c9f03f0875f7e
                     <li class=\"\"><a href=\"\">Astragraphia Xprins Indonesia</a></li>
                 </ul>
             </div>
-            <div class=\"col-3\">
+            <div class=\"col-md-3 col-12\">
                 <div class=\"h6\"><b>Relasi Investor</b></div>
                 <ul class=\"\">
                     <li class=\"\"><a href=\"\">Keterbukaan Informasi</a></li>
@@ -43,7 +43,7 @@ class __TwigTemplate_77d1bf89aa80e02dc5d88093a888cd9ffd9dca154a4cc0c9f03f0875f7e
                     <li class=\"\"><a href=\"\">Informasi Material</a></li>
                 </ul>
             </div>
-            <div class=\"col-3\">
+            <div class=\"col-md-3 col-12\">
                 <div class=\"h6\"><b>Head Office</b></div>
                 <p>PT Astra Graphia Information Technology ANZ Tower, 22nd Floor Jl. Jend. Sudirman Kav. 33A Jakarta 10220, Indonesia</p>
                 <div class=\"h6\"><b>Connect With Us</b></div>
@@ -74,9 +74,9 @@ class __TwigTemplate_77d1bf89aa80e02dc5d88093a888cd9ffd9dca154a4cc0c9f03f0875f7e
     public function getSourceContext()
     {
         return new Twig_Source("<div class=\"footer-bg\">
-    <div class=\"col-10 mx-auto\">
+    <div class=\"col-md-10 col-12 mx-auto\">
         <div class=\"row no-gutters\">
-            <div class=\"col-3\">
+            <div class=\"col-md-3 col-12\">
                 <div class=\"h6\"><b>Tentang Kami</b></div>
                 <ul class=\"\">
                     <li class=\"\"><a href=\"\">Struktur Grup Perseroan</a></li>
@@ -84,7 +84,7 @@ class __TwigTemplate_77d1bf89aa80e02dc5d88093a888cd9ffd9dca154a4cc0c9f03f0875f7e
                     <li class=\"\"><a href=\"\">Struktur Organisasi</a></li>
                 </ul>
             </div>
-            <div class=\"col-3\">
+            <div class=\"col-md-3 col-12\">
                 <div class=\"h6\"><b>Portfolio Bisnis</b></div>
                 <ul class=\"\">
                     <li class=\"\"><a href=\"\">Astragraphia Document Solution</a></li>
@@ -92,7 +92,7 @@ class __TwigTemplate_77d1bf89aa80e02dc5d88093a888cd9ffd9dca154a4cc0c9f03f0875f7e
                     <li class=\"\"><a href=\"\">Astragraphia Xprins Indonesia</a></li>
                 </ul>
             </div>
-            <div class=\"col-3\">
+            <div class=\"col-md-3 col-12\">
                 <div class=\"h6\"><b>Relasi Investor</b></div>
                 <ul class=\"\">
                     <li class=\"\"><a href=\"\">Keterbukaan Informasi</a></li>
@@ -100,7 +100,7 @@ class __TwigTemplate_77d1bf89aa80e02dc5d88093a888cd9ffd9dca154a4cc0c9f03f0875f7e
                     <li class=\"\"><a href=\"\">Informasi Material</a></li>
                 </ul>
             </div>
-            <div class=\"col-3\">
+            <div class=\"col-md-3 col-12\">
                 <div class=\"h6\"><b>Head Office</b></div>
                 <p>PT Astra Graphia Information Technology ANZ Tower, 22nd Floor Jl. Jend. Sudirman Kav. 33A Jakarta 10220, Indonesia</p>
                 <div class=\"h6\"><b>Connect With Us</b></div>

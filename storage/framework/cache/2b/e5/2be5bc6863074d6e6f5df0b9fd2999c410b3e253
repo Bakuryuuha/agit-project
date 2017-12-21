@@ -1,9 +1,9 @@
-1513661747a:1:{s:15:"site/footer.htm";a:6:{s:8:"fileName";s:15:"site/footer.htm";s:7:"content";s:2067:"[viewBag]
+1513853110a:1:{s:15:"site/footer.htm";a:6:{s:8:"fileName";s:15:"site/footer.htm";s:7:"content";s:2117:"[viewBag]
 ==
 <div class="footer-bg">
-    <div class="col-10 mx-auto">
+    <div class="col-md-10 col-12 mx-auto">
         <div class="row no-gutters">
-            <div class="col-3">
+            <div class="col-md-3 col-12">
                 <div class="h6"><b>Tentang Kami</b></div>
                 <ul class="">
                     <li class=""><a href="">Struktur Grup Perseroan</a></li>
@@ -11,7 +11,7 @@
                     <li class=""><a href="">Struktur Organisasi</a></li>
                 </ul>
             </div>
-            <div class="col-3">
+            <div class="col-md-3 col-12">
                 <div class="h6"><b>Portfolio Bisnis</b></div>
                 <ul class="">
                     <li class=""><a href="">Astragraphia Document Solution</a></li>
@@ -19,7 +19,7 @@
                     <li class=""><a href="">Astragraphia Xprins Indonesia</a></li>
                 </ul>
             </div>
-            <div class="col-3">
+            <div class="col-md-3 col-12">
                 <div class="h6"><b>Relasi Investor</b></div>
                 <ul class="">
                     <li class=""><a href="">Keterbukaan Informasi</a></li>
@@ -27,7 +27,7 @@
                     <li class=""><a href="">Informasi Material</a></li>
                 </ul>
             </div>
-            <div class="col-3">
+            <div class="col-md-3 col-12">
                 <div class="h6"><b>Head Office</b></div>
                 <p>PT Astra Graphia Information Technology ANZ Tower, 22nd Floor Jl. Jend. Sudirman Kav. 33A Jakarta 10220, Indonesia</p>
                 <div class="h6"><b>Connect With Us</b></div>
@@ -43,10 +43,10 @@
         </div>
     </div>
 </div>
-";s:5:"mtime";i:1513650265;s:6:"markup";s:2050:"<div class="footer-bg">
-    <div class="col-10 mx-auto">
+";s:5:"mtime";i:1513843696;s:6:"markup";s:2100:"<div class="footer-bg">
+    <div class="col-md-10 col-12 mx-auto">
         <div class="row no-gutters">
-            <div class="col-3">
+            <div class="col-md-3 col-12">
                 <div class="h6"><b>Tentang Kami</b></div>
                 <ul class="">
                     <li class=""><a href="">Struktur Grup Perseroan</a></li>
@@ -54,7 +54,7 @@
                     <li class=""><a href="">Struktur Organisasi</a></li>
                 </ul>
             </div>
-            <div class="col-3">
+            <div class="col-md-3 col-12">
                 <div class="h6"><b>Portfolio Bisnis</b></div>
                 <ul class="">
                     <li class=""><a href="">Astragraphia Document Solution</a></li>
@@ -62,7 +62,7 @@
                     <li class=""><a href="">Astragraphia Xprins Indonesia</a></li>
                 </ul>
             </div>
-            <div class="col-3">
+            <div class="col-md-3 col-12">
                 <div class="h6"><b>Relasi Investor</b></div>
                 <ul class="">
                     <li class=""><a href="">Keterbukaan Informasi</a></li>
@@ -70,7 +70,7 @@
                     <li class=""><a href="">Informasi Material</a></li>
                 </ul>
             </div>
-            <div class="col-3">
+            <div class="col-md-3 col-12">
                 <div class="h6"><b>Head Office</b></div>
                 <p>PT Astra Graphia Information Technology ANZ Tower, 22nd Floor Jl. Jend. Sudirman Kav. 33A Jakarta 10220, Indonesia</p>
                 <div class="h6"><b>Connect With Us</b></div>

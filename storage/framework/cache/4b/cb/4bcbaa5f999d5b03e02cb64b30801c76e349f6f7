@@ -1,0 +1,13 @@
+1513839110a:1:{s:8:"news.htm";a:12:{s:8:"fileName";s:8:"news.htm";s:7:"content";s:206:"title = "News"
+url = "/news"
+layout = "default"
+description = "News"
+is_hidden = 0
+
+[staticBreadcrumbs]
+
+[blogPost]
+slug = "first-blog-post"
+categoryPage = "{{ uncategorized }}"
+==
+<h1>Test</h1>";s:5:"mtime";i:1513838506;s:6:"markup";s:13:"<h1>Test</h1>";s:4:"code";N;s:5:"title";s:4:"News";s:3:"url";s:5:"/news";s:6:"layout";s:7:"default";s:11:"description";s:4:"News";s:9:"is_hidden";s:1:"0";s:17:"staticBreadcrumbs";a:0:{}s:8:"blogPost";a:2:{s:4:"slug";s:15:"first-blog-post";s:12:"categoryPage";s:19:"{{ uncategorized }}";}}}

@@ -1,0 +1,6 @@
+plugin:
+    name: 'gilang.tester::lang.plugin.name'
+    description: 'gilang.tester::lang.plugin.description'
+    author: gilang
+    icon: oc-icon-adn
+    homepage: ''

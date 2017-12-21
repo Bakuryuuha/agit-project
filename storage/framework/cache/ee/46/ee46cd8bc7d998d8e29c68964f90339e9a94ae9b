@@ -1,92 +1,10 @@
-1513661308a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:1205:"title = "Hello"
-url = "/hello"
-layout = "default"
+1513853109a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:158:"title = "Home"
+url = "/home"
+layout = "master"
 is_hidden = 0
 ==
-<div class="container">
-    <div id="homeGreetings" class="home-greetings">
-        <h1>Hello</h1>
-        <h1>Bonjour</h1>
-        <h1>Hola</h1>
-        <h1>Привет</h1>
-        <h1>Hallo</h1>
-        <h1>Ahoj</h1>
-        <h1>Χαίρετε</h1>
-        <h1>Olá</h1>
-        <h1>Ciao</h1>
-        <h1>Salut</h1>
-        <h1>こんにちは</h1>
-        <h1>Sveiki</h1>
-        <h1>Cześć</h1>
-        <h1>Buna</h1>
-        <h1>你好</h1>
-        <h1>Hallå</h1>
-        <h1>Merhaba</h1>
-    </div>
-</div>
-
-{% put scripts %}
-    <script>
-        function swap() {
-            $('#homeGreetings h1:visible').each(function(){
-                $(this).fadeOut(500);
-                if ($(this).next().length > 0) $(this).next().fadeIn(1000);
-                else $('#homeGreetings h1:first').fadeIn(1000)
-            });
-        }
-
-        $('#homeGreetings')
-            .find('h1:not(:first)')
-            .hide()
-            .end()
-            .addClass('is-loaded');
-
-        setTimeout(function() {
-            setInterval(swap, 2000);
-        }, 1000)
-
-    </script>
-{% endput %}";s:5:"mtime";i:1513650264;s:6:"markup";s:1133:"<div class="container">
-    <div id="homeGreetings" class="home-greetings">
-        <h1>Hello</h1>
-        <h1>Bonjour</h1>
-        <h1>Hola</h1>
-        <h1>Привет</h1>
-        <h1>Hallo</h1>
-        <h1>Ahoj</h1>
-        <h1>Χαίρετε</h1>
-        <h1>Olá</h1>
-        <h1>Ciao</h1>
-        <h1>Salut</h1>
-        <h1>こんにちは</h1>
-        <h1>Sveiki</h1>
-        <h1>Cześć</h1>
-        <h1>Buna</h1>
-        <h1>你好</h1>
-        <h1>Hallå</h1>
-        <h1>Merhaba</h1>
-    </div>
-</div>
-
-{% put scripts %}
-    <script>
-        function swap() {
-            $('#homeGreetings h1:visible').each(function(){
-                $(this).fadeOut(500);
-                if ($(this).next().length > 0) $(this).next().fadeIn(1000);
-                else $('#homeGreetings h1:first').fadeIn(1000)
-            });
-        }
-
-        $('#homeGreetings')
-            .find('h1:not(:first)')
-            .hide()
-            .end()
-            .addClass('is-loaded');
-
-        setTimeout(function() {
-            setInterval(swap, 2000);
-        }, 1000)
-
-    </script>
-{% endput %}";s:4:"code";N;s:5:"title";s:5:"Hello";s:3:"url";s:6:"/hello";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";}}
+{% partial "Home/1-Landing" %}
+{% partial "Home/2-Offer" %}
+{% partial "Home/3-News" %}";s:5:"mtime";i:1513848360;s:6:"markup";s:89:"{% partial "Home/1-Landing" %}
+{% partial "Home/2-Offer" %}
+{% partial "Home/3-News" %}";s:4:"code";N;s:5:"title";s:4:"Home";s:3:"url";s:5:"/home";s:6:"layout";s:6:"master";s:9:"is_hidden";s:1:"0";}}

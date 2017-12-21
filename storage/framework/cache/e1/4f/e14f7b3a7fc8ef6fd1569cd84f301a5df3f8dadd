@@ -1,4 +1,4 @@
-1513661746a:1:{s:10:"master.htm";a:8:{s:8:"fileName";s:10:"master.htm";s:7:"content";s:1269:"description = "Layout for Master"
+1513853109a:1:{s:10:"master.htm";a:8:{s:8:"fileName";s:10:"master.htm";s:7:"content";s:1272:"description = "Layout for Master"
 
 [localePicker]
 forceUrl = 0
@@ -18,11 +18,11 @@ forceUrl = 0
           <div class="container p-0">
             <div class="navbar navbar-top">
               <div class="mr-auto">
-                  <a class="nav-lang mr-2" href="#">English</a> | <a class="nav-lang ml-2" href="#">Indonesia</a>
+                  <a class="nav-lang mr-md-2 mr-1" href="#">English</a> | <a class="nav-lang ml-md-2 ml-1" href="#">Indonesia</a>
               </div>
               <form class="form-inline">
                 <input class="form-control" type="search" placeholder="Search" aria-label="Search">
-                <button class="btn my-2 my-sm-0" type="submit"><i class="fa fa-search fa-fw"></i></button>
+                <button class="btn" type="submit"><i class="fa fa-search fa-fw"></i></button>
               </form>
             </div>
           </div>
@@ -46,7 +46,7 @@ forceUrl = 0
         </footer>
     </body>
 </html>
-";s:5:"mtime";i:1513650264;s:6:"markup";s:1180:"<!DOCTYPE html>
+";s:5:"mtime";i:1513844176;s:6:"markup";s:1183:"<!DOCTYPE html>
 <html>
     <head>
         {% partial 'site/meta' %}
@@ -59,11 +59,11 @@ forceUrl = 0
           <div class="container p-0">
             <div class="navbar navbar-top">
               <div class="mr-auto">
-                  <a class="nav-lang mr-2" href="#">English</a> | <a class="nav-lang ml-2" href="#">Indonesia</a>
+                  <a class="nav-lang mr-md-2 mr-1" href="#">English</a> | <a class="nav-lang ml-md-2 ml-1" href="#">Indonesia</a>
               </div>
               <form class="form-inline">
                 <input class="form-control" type="search" placeholder="Search" aria-label="Search">
-                <button class="btn my-2 my-sm-0" type="submit"><i class="fa fa-search fa-fw"></i></button>
+                <button class="btn" type="submit"><i class="fa fa-search fa-fw"></i></button>
               </form>
             </div>
           </div>

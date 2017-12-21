@@ -1,7 +1,8 @@
-1513661308a:1:{s:13:"languages.htm";a:9:{s:8:"fileName";s:13:"languages.htm";s:7:"content";s:1258:"title = "Languages"
-meta_title = "title.languages"
+1513853109a:1:{s:13:"languages.htm";a:10:{s:8:"fileName";s:13:"languages.htm";s:7:"content";s:1273:"title = "Languages"
 url = "/languages"
 layout = "default"
+meta_title = "title.languages"
+is_hidden = 0
 ==
 <div class="container">
 
@@ -38,7 +39,7 @@ layout = "default"
             {% content 'locale-setup.htm' %}
         </div>
     </div>
-{% endput %}";s:5:"mtime";i:1513650265;s:6:"markup";s:1161:"<div class="container">
+{% endput %}";s:5:"mtime";i:1513838991;s:6:"markup";s:1161:"<div class="container">
 
     <div class="title-area">
         <h3>{{ this.page.meta_title|_ }}</h3>
@@ -73,4 +74,4 @@ layout = "default"
             {% content 'locale-setup.htm' %}
         </div>
     </div>
-{% endput %}";s:4:"code";N;s:5:"title";s:9:"Languages";s:10:"meta_title";s:15:"title.languages";s:3:"url";s:10:"/languages";s:6:"layout";s:7:"default";}}
+{% endput %}";s:4:"code";N;s:5:"title";s:9:"Languages";s:3:"url";s:10:"/languages";s:6:"layout";s:7:"default";s:10:"meta_title";s:15:"title.languages";s:9:"is_hidden";s:1:"0";}}

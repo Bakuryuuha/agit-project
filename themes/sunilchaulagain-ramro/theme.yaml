@@ -1,0 +1,7 @@
+name: Ramro
+description: "Ramro material theme is a Free Bootstrap UI Kit with a fresh, new design inspired by Google's material design. You asked for it, so we built it. It's a great pleasure to introduce to you the material concepts in an easy to use and beautiful set of components. Along with the restyling of the Bootstrap elements, you will find three fully-coded example pages, to help you design your next project.\r\n"
+author: 'Sunil Chaulagain'
+homepage: 'http://sunil.com.au'
+code: ramro
+require:
+    - Laminsanneh.Flexicontact

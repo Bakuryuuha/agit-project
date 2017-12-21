@@ -1,0 +1,88 @@
+1513853341a:1:{s:15:"Home/3-News.htm";a:7:{s:8:"fileName";s:15:"Home/3-News.htm";s:7:"content";s:1945:"description = "News List Section"
+
+[viewBag]
+snippetCode = "news"
+snippetName = "news"
+==
+<div class="bg-white slide-section">
+  <div class="container">
+    <div class="desc mb-5">
+      News<br>
+      <span>Keep update with our Activities & Communities</span>
+    </div>
+    <div class="card-deck">
+  <div class="card">
+    <img class="card-img-top" src="/agit-project/themes/rainlab-bonjour/assets/images/home/news_thumb_1.png" alt="Card image cap">
+    <div class="card-body">
+      <h4 class="card-title">Card title</h4>
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+
+    </div>
+  </div>
+  <div class="card">
+    <img class="card-img-top" src="/agit-project/themes/rainlab-bonjour/assets/images/home/news_thumb_1.png" alt="Card image cap">
+    <div class="card-body">
+      <h4 class="card-title">Card title</h4>
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+
+    </div>
+  </div>
+  <div class="card">
+    <img class="card-img-top" src="/agit-project/themes/rainlab-bonjour/assets/images/home/news_thumb_2.png" alt="Card image cap">
+    <div class="card-body">
+      <h4 class="card-title">Card title</h4>
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+
+    </div>
+  </div>
+</div>
+<div class="text-center mt-5">
+
+  <button class="btn btn-primary">More News</button>
+</div>
+  </div>
+</div>
+";s:5:"mtime";i:1513852738;s:6:"markup";s:1847:"<div class="bg-white slide-section">
+  <div class="container">
+    <div class="desc mb-5">
+      News<br>
+      <span>Keep update with our Activities & Communities</span>
+    </div>
+    <div class="card-deck">
+  <div class="card">
+    <img class="card-img-top" src="/agit-project/themes/rainlab-bonjour/assets/images/home/news_thumb_1.png" alt="Card image cap">
+    <div class="card-body">
+      <h4 class="card-title">Card title</h4>
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+
+    </div>
+  </div>
+  <div class="card">
+    <img class="card-img-top" src="/agit-project/themes/rainlab-bonjour/assets/images/home/news_thumb_1.png" alt="Card image cap">
+    <div class="card-body">
+      <h4 class="card-title">Card title</h4>
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+
+    </div>
+  </div>
+  <div class="card">
+    <img class="card-img-top" src="/agit-project/themes/rainlab-bonjour/assets/images/home/news_thumb_2.png" alt="Card image cap">
+    <div class="card-body">
+      <h4 class="card-title">Card title</h4>
+      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+
+    </div>
+  </div>
+</div>
+<div class="text-center mt-5">
+
+  <button class="btn btn-primary">More News</button>
+</div>
+  </div>
+</div>";s:4:"code";N;s:11:"description";s:17:"News List Section";s:7:"viewBag";a:2:{s:11:"snippetCode";s:4:"news";s:11:"snippetName";s:4:"news";}}}
