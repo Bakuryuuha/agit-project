@@ -1,0 +1,44 @@
+1513941575a:1:{s:19:"Home/4-Partners.htm";a:7:{s:8:"fileName";s:19:"Home/4-Partners.htm";s:7:"content";s:1798:"description = "Section for client"
+
+[viewBag]
+snippetCode = "partners"
+snippetName = "partners"
+==
+
+<div class="page-content bg-light">
+    <div class="container partner-div">
+    	<div class="title">Our Partners</div>
+        <div class="col-md-8 col-12 mx-auto">
+        	<a href="#"><img src="/agit-project/themes/rainlab-bonjour/assets/images/company_logo/cisco.png" alt="cisco"></a>
+        	<a href="#"><img src="/agit-project/themes/rainlab-bonjour/assets/images/company_logo/cisco.png" alt="cisco"></a>
+        	<a href="#"><img src="/agit-project/themes/rainlab-bonjour/assets/images/company_logo/cisco.png" alt="cisco"></a>
+        	<a href="#"><img src="/agit-project/themes/rainlab-bonjour/assets/images/company_logo/cisco.png" alt="cisco"></a>
+        	<a href="#"><img src="/agit-project/themes/rainlab-bonjour/assets/images/company_logo/cisco.png" alt="cisco"></a>
+        	<a href="#"><img src="/agit-project/themes/rainlab-bonjour/assets/images/company_logo/cisco.png" alt="cisco"></a>
+        	<a href="#"><img src="/agit-project/themes/rainlab-bonjour/assets/images/company_logo/cisco.png" alt="cisco"></a>
+        	<a href="#"><img src="/agit-project/themes/rainlab-bonjour/assets/images/company_logo/cisco.png" alt="cisco"></a>
+        	<a href="#"><img src="/agit-project/themes/rainlab-bonjour/assets/images/company_logo/cisco.png" alt="cisco"></a>
+        	<a href="#"><img src="/agit-project/themes/rainlab-bonjour/assets/images/company_logo/cisco.png" alt="cisco"></a>
+        	<a href="#"><img src="/agit-project/themes/rainlab-bonjour/assets/images/company_logo/cisco.png" alt="cisco"></a>
+        	<a href="#"><img src="/agit-project/themes/rainlab-bonjour/assets/images/company_logo/cisco.png" alt="cisco"></a>
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1513940925;s:6:"markup";s:1691:"<div class="page-content bg-light">
+    <div class="container partner-div">
+    	<div class="title">Our Partners</div>
+        <div class="col-md-8 col-12 mx-auto">
+        	<a href="#"><img src="/agit-project/themes/rainlab-bonjour/assets/images/company_logo/cisco.png" alt="cisco"></a>
+        	<a href="#"><img src="/agit-project/themes/rainlab-bonjour/assets/images/company_logo/cisco.png" alt="cisco"></a>
+        	<a href="#"><img src="/agit-project/themes/rainlab-bonjour/assets/images/company_logo/cisco.png" alt="cisco"></a>
+        	<a href="#"><img src="/agit-project/themes/rainlab-bonjour/assets/images/company_logo/cisco.png" alt="cisco"></a>
+        	<a href="#"><img src="/agit-project/themes/rainlab-bonjour/assets/images/company_logo/cisco.png" alt="cisco"></a>
+        	<a href="#"><img src="/agit-project/themes/rainlab-bonjour/assets/images/company_logo/cisco.png" alt="cisco"></a>
+        	<a href="#"><img src="/agit-project/themes/rainlab-bonjour/assets/images/company_logo/cisco.png" alt="cisco"></a>
+        	<a href="#"><img src="/agit-project/themes/rainlab-bonjour/assets/images/company_logo/cisco.png" alt="cisco"></a>
+        	<a href="#"><img src="/agit-project/themes/rainlab-bonjour/assets/images/company_logo/cisco.png" alt="cisco"></a>
+        	<a href="#"><img src="/agit-project/themes/rainlab-bonjour/assets/images/company_logo/cisco.png" alt="cisco"></a>
+        	<a href="#"><img src="/agit-project/themes/rainlab-bonjour/assets/images/company_logo/cisco.png" alt="cisco"></a>
+        	<a href="#"><img src="/agit-project/themes/rainlab-bonjour/assets/images/company_logo/cisco.png" alt="cisco"></a>
+        </div>
+    </div>
+</div>";s:4:"code";N;s:11:"description";s:18:"Section for client";s:7:"viewBag";a:2:{s:11:"snippetCode";s:8:"partners";s:11:"snippetName";s:8:"partners";}}}

@@ -121,4 +121,5 @@
   'laminsanneh\\flexicontact\\Plugin' => 'plugins\\laminsanneh\\flexicontact\\Plugin.php',
   'LaminSanneh\\FlexiContact\\Components\\ContactForm' => 'plugins\\laminsanneh\\flexicontact\\components\\ContactForm.php',
   'LaminSanneh\\FlexiContact\\Models\\Settings' => 'plugins\\laminsanneh\\flexicontact\\models\\Settings.php',
+  'RainLab\\Translate\\Classes\\MLContent' => 'plugins\\rainlab\\translate\\classes\\MLContent.php',
 );

@@ -17,10 +17,10 @@ class __TwigTemplate_77d1bf89aa80e02dc5d88093a888cd9ffd9dca154a4cc0c9f03f0875f7e
     {
         // line 1
         echo "<div class=\"footer-bg\">
-    <div class=\"col-md-10 col-12 mx-auto\">
+    <div class=\"col-md-8 col-12 mx-auto\">
         <div class=\"row no-gutters\">
             <div class=\"col-md-3 col-12\">
-                <div class=\"h6\"><b>Tentang Kami</b></div>
+                <div class=\"h6 mb-md-3\"><b>Tentang Kami</b></div>
                 <ul class=\"\">
                     <li class=\"\"><a href=\"\">Struktur Grup Perseroan</a></li>
                     <li class=\"\"><a href=\"\">Komposisi Pemegang Saham</a></li>
@@ -28,7 +28,7 @@ class __TwigTemplate_77d1bf89aa80e02dc5d88093a888cd9ffd9dca154a4cc0c9f03f0875f7e
                 </ul>
             </div>
             <div class=\"col-md-3 col-12\">
-                <div class=\"h6\"><b>Portfolio Bisnis</b></div>
+                <div class=\"h6 mb-md-3\"><b>Portfolio Bisnis</b></div>
                 <ul class=\"\">
                     <li class=\"\"><a href=\"\">Astragraphia Document Solution</a></li>
                     <li class=\"\"><a href=\"\">Agit</a></li>
@@ -36,7 +36,7 @@ class __TwigTemplate_77d1bf89aa80e02dc5d88093a888cd9ffd9dca154a4cc0c9f03f0875f7e
                 </ul>
             </div>
             <div class=\"col-md-3 col-12\">
-                <div class=\"h6\"><b>Relasi Investor</b></div>
+                <div class=\"h6 mb-md-3\"><b>Relasi Investor</b></div>
                 <ul class=\"\">
                     <li class=\"\"><a href=\"\">Keterbukaan Informasi</a></li>
                     <li class=\"\"><a href=\"\">Siaran Pers</a></li>
@@ -44,9 +44,9 @@ class __TwigTemplate_77d1bf89aa80e02dc5d88093a888cd9ffd9dca154a4cc0c9f03f0875f7e
                 </ul>
             </div>
             <div class=\"col-md-3 col-12\">
-                <div class=\"h6\"><b>Head Office</b></div>
-                <p>PT Astra Graphia Information Technology ANZ Tower, 22nd Floor Jl. Jend. Sudirman Kav. 33A Jakarta 10220, Indonesia</p>
-                <div class=\"h6\"><b>Connect With Us</b></div>
+                <div class=\"h6 mb-md-3\"><b>Head Office</b></div>
+                <p>PT Astra Graphia Information Technology<br> ANZ Tower, 22nd Floor Jl. Jend. Sudirman Kav. 33A Jakarta 10220, Indonesia</p>
+                <div class=\"h6 mb-md-3\"><img src=\"/agit-project/themes/rainlab-bonjour/assets/images/logo_agit_white.png\" alt=\"\" style=\"width: 3rem;\"> <b>Connect With Us</b></div>
                 <div class=\"social-link\">
                 \t<a href=\"\"><i class=\"fa fa-facebook-square fa-2x\"></i></a>
                 \t<a href=\"\"><i class=\"fa fa-youtube-square fa-2x\"></i></a>
@@ -55,7 +55,7 @@ class __TwigTemplate_77d1bf89aa80e02dc5d88093a888cd9ffd9dca154a4cc0c9f03f0875f7e
             </div>
         </div>
         <div class=\"mt-4 mb-2\">
-        \t<div class=\"h6 text-center\">Copyright All Rights Reserved © 2017</div>
+        \t<div class=\"h6 mb-md-3 text-center\"><img src=\"/agit-project/themes/rainlab-bonjour/assets/images/logo_agit_white.png\" alt=\"\"> Copyright All Rights Reserved © 2017</div>
         </div>
     </div>
 </div>";
@@ -74,10 +74,10 @@ class __TwigTemplate_77d1bf89aa80e02dc5d88093a888cd9ffd9dca154a4cc0c9f03f0875f7e
     public function getSourceContext()
     {
         return new Twig_Source("<div class=\"footer-bg\">
-    <div class=\"col-md-10 col-12 mx-auto\">
+    <div class=\"col-md-8 col-12 mx-auto\">
         <div class=\"row no-gutters\">
             <div class=\"col-md-3 col-12\">
-                <div class=\"h6\"><b>Tentang Kami</b></div>
+                <div class=\"h6 mb-md-3\"><b>Tentang Kami</b></div>
                 <ul class=\"\">
                     <li class=\"\"><a href=\"\">Struktur Grup Perseroan</a></li>
                     <li class=\"\"><a href=\"\">Komposisi Pemegang Saham</a></li>
@@ -85,7 +85,7 @@ class __TwigTemplate_77d1bf89aa80e02dc5d88093a888cd9ffd9dca154a4cc0c9f03f0875f7e
                 </ul>
             </div>
             <div class=\"col-md-3 col-12\">
-                <div class=\"h6\"><b>Portfolio Bisnis</b></div>
+                <div class=\"h6 mb-md-3\"><b>Portfolio Bisnis</b></div>
                 <ul class=\"\">
                     <li class=\"\"><a href=\"\">Astragraphia Document Solution</a></li>
                     <li class=\"\"><a href=\"\">Agit</a></li>
@@ -93,7 +93,7 @@ class __TwigTemplate_77d1bf89aa80e02dc5d88093a888cd9ffd9dca154a4cc0c9f03f0875f7e
                 </ul>
             </div>
             <div class=\"col-md-3 col-12\">
-                <div class=\"h6\"><b>Relasi Investor</b></div>
+                <div class=\"h6 mb-md-3\"><b>Relasi Investor</b></div>
                 <ul class=\"\">
                     <li class=\"\"><a href=\"\">Keterbukaan Informasi</a></li>
                     <li class=\"\"><a href=\"\">Siaran Pers</a></li>
@@ -101,9 +101,9 @@ class __TwigTemplate_77d1bf89aa80e02dc5d88093a888cd9ffd9dca154a4cc0c9f03f0875f7e
                 </ul>
             </div>
             <div class=\"col-md-3 col-12\">
-                <div class=\"h6\"><b>Head Office</b></div>
-                <p>PT Astra Graphia Information Technology ANZ Tower, 22nd Floor Jl. Jend. Sudirman Kav. 33A Jakarta 10220, Indonesia</p>
-                <div class=\"h6\"><b>Connect With Us</b></div>
+                <div class=\"h6 mb-md-3\"><b>Head Office</b></div>
+                <p>PT Astra Graphia Information Technology<br> ANZ Tower, 22nd Floor Jl. Jend. Sudirman Kav. 33A Jakarta 10220, Indonesia</p>
+                <div class=\"h6 mb-md-3\"><img src=\"/agit-project/themes/rainlab-bonjour/assets/images/logo_agit_white.png\" alt=\"\" style=\"width: 3rem;\"> <b>Connect With Us</b></div>
                 <div class=\"social-link\">
                 \t<a href=\"\"><i class=\"fa fa-facebook-square fa-2x\"></i></a>
                 \t<a href=\"\"><i class=\"fa fa-youtube-square fa-2x\"></i></a>
@@ -112,7 +112,7 @@ class __TwigTemplate_77d1bf89aa80e02dc5d88093a888cd9ffd9dca154a4cc0c9f03f0875f7e
             </div>
         </div>
         <div class=\"mt-4 mb-2\">
-        \t<div class=\"h6 text-center\">Copyright All Rights Reserved © 2017</div>
+        \t<div class=\"h6 mb-md-3 text-center\"><img src=\"/agit-project/themes/rainlab-bonjour/assets/images/logo_agit_white.png\" alt=\"\"> Copyright All Rights Reserved © 2017</div>
         </div>
     </div>
 </div>", "C:\\xampp\\htdocs\\agit-project/themes/rainlab-bonjour/partials/site/footer.htm", "");
